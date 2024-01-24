@@ -1,0 +1,128 @@
+{
+  "parent": "builtin/generated",
+  "textures": {
+    "layer0": "item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "clubmine/furniture/pop_zubook"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "clubmine/furniture/pop_arikorv"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "clubmine/furniture/pop_nitoned"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "clubmine/furniture/pop_catmaid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "clubmine/furniture/pop_chazlovell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "clubmine/furniture/pop_lndnsbridge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "clubmine/furniture/pop_zora"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "clubmine/furniture/pop_emcrald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "clubmine/furniture/pop_kaiif"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "clubmine/furniture/pop_mrclean"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "clubmine/handheld/sorigin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "clubmine/handheld/pandaplush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "clubmine/hats/polarbearplush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "clubmine/x/y"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "clubmine/x/y"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "clubmine/x/y"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "clubmine/x/y"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "clubmine/x/y"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "clubmine/x/y"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "clubmine/x/y"
+    }
+  ]
+}
