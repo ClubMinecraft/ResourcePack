@@ -173,6 +173,60 @@
 			"chars": [
 				"ꌄ"
 			]
-		}
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/spawnsign1.png",
+			"ascent": 20,
+			"height": 96,
+			"chars": [
+				"氏氐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/spawnsign1.png",
+			"ascent": 250,
+			"height": 388,
+			"chars": [
+				"温灏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/spawnsign1.png",
+			"ascent": 350,
+			"height": 578,
+			"chars": [
+				"浮漈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/spawnsign1.png",
+			"ascent": 47,
+			"height": 80,
+			"chars": [
+				"撤搒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/spawnsign1.png",
+			"ascent": 63,
+			"height": 120,
+			"chars": [
+				"섏섐"
+			]
+		},
+				{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -3,
+			"chars": [
+				"ꈂ"
+			]
+		},
 	]
 }
