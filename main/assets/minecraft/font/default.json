@@ -1,0 +1,8171 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -1,
+			"chars": [
+				"ꈁ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -2,
+			"chars": [
+				"委"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/manager.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ⲉ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/guide.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㒋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/mod.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㐋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/owner.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㐛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/dev.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㐫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/team.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㐻"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/admin.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㑋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/club.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㑫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/media.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㑻"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/player.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㑛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/dev-crown.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㐜"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/guide-crown.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㐬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/mod-crown.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㐼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/admin-crown.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㑌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/manager-crown.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㑜"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/owner-crown.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㑬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/team-crown.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"㑼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -2,
+			"chars": [
+				"麖"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -3,
+			"chars": [
+				"ꈂ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -3,
+			"chars": [
+				"吣"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -4,
+			"chars": [
+				"ꈃ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -5,
+			"chars": [
+				"ꈄ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -6,
+			"chars": [
+				"ꈅ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -7,
+			"chars": [
+				"ꈆ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -8,
+			"chars": [
+				"ꈇ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -9,
+			"chars": [
+				"ꈈ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -10,
+			"chars": [
+				"ꈉ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 10,
+			"chars": [
+				"茳"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -11,
+			"chars": [
+				"久"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -10,
+			"chars": [
+				"魉"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -12,
+			"chars": [
+				"辆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -13,
+			"chars": [
+				"沩"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -14,
+			"chars": [
+				"匒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -16,
+			"chars": [
+				"漷"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -17,
+			"chars": [
+				"铒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -18,
+			"chars": [
+				"ꈊ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -19,
+			"chars": [
+				"秬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -20,
+			"chars": [
+				"籽"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -22,
+			"chars": [
+				"醭"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -23,
+			"chars": [
+				"泽"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -24,
+			"chars": [
+				"转"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -25,
+			"chars": [
+				"洼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -26,
+			"chars": [
+				"髌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -27,
+			"chars": [
+				"泗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -28,
+			"chars": [
+				"穙"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -29,
+			"chars": [
+				"邸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -31,
+			"chars": [
+				"甬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -32,
+			"chars": [
+				"粽"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -33,
+			"chars": [
+				"轩"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -34,
+			"chars": [
+				"ꈋ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -35,
+			"chars": [
+				"呋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -35,
+			"chars": [
+				"乏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -36,
+			"chars": [
+				"袭"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -37,
+			"chars": [
+				"说"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -39,
+			"chars": [
+				"战"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -40,
+			"chars": [
+				"醋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -40,
+			"chars": [
+				"熙"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -41,
+			"chars": [
+				"魋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -42,
+			"chars": [
+				"廋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -43,
+			"chars": [
+				"镕"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -44,
+			"chars": [
+				"糠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -45,
+			"chars": [
+				"稿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -46,
+			"chars": [
+				"配"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -47,
+			"chars": [
+				"丸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -49,
+			"chars": [
+				"蝻"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -50,
+			"chars": [
+				"膑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -51,
+			"chars": [
+				"滍"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -52,
+			"chars": [
+				"稆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -53,
+			"chars": [
+				"镲"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -54,
+			"chars": [
+				"拿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -55,
+			"chars": [
+				"鹅"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -56,
+			"chars": [
+				"丢"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -57,
+			"chars": [
+				"瓜"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -58,
+			"chars": [
+				"糯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -60,
+			"chars": [
+				"魁"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -61,
+			"chars": [
+				"簏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -63,
+			"chars": [
+				"凼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -64,
+			"chars": [
+				"升"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -65,
+			"chars": [
+				"晕"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -66,
+			"chars": [
+				"ꈌ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -67,
+			"chars": [
+				"鸱"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -68,
+			"chars": [
+				"粞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -69,
+			"chars": [
+				"尊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -70,
+			"chars": [
+				"疕"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -72,
+			"chars": [
+				"楂"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -73,
+			"chars": [
+				"笞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -74,
+			"chars": [
+				"砫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -75,
+			"chars": [
+				"膛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -76,
+			"chars": [
+				"嗹"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -77,
+			"chars": [
+				"屠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -79,
+			"chars": [
+				"馈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -80,
+			"chars": [
+				"鼫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -83,
+			"chars": [
+				"龟"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -84,
+			"chars": [
+				"廒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -85,
+			"chars": [
+				"婪"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -88,
+			"chars": [
+				"镝"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -89,
+			"chars": [
+				"愆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -89,
+			"chars": [
+				"棽"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -90,
+			"chars": [
+				"所"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -91,
+			"chars": [
+				"鱼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -93,
+			"chars": [
+				"饻"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -94,
+			"chars": [
+				"砗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -96,
+			"chars": [
+				"超"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -99,
+			"chars": [
+				"笸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -100,
+			"chars": [
+				"劬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -102,
+			"chars": [
+				"棘"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -103,
+			"chars": [
+				"鲁"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -104,
+			"chars": [
+				"爷"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -106,
+			"chars": [
+				"钪"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -110,
+			"chars": [
+				"域"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -111,
+			"chars": [
+				"汉"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -112,
+			"chars": [
+				"镦"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -113,
+			"chars": [
+				"丫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -114,
+			"chars": [
+				"策"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -115,
+			"chars": [
+				"租"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -116,
+			"chars": [
+				"稠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -117,
+			"chars": [
+				"稻"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -118,
+			"chars": [
+				"铰"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -119,
+			"chars": [
+				"铍"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -120,
+			"chars": [
+				"镞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -123,
+			"chars": [
+				"人"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -124,
+			"chars": [
+				"替"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -125,
+			"chars": [
+				"疒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -127,
+			"chars": [
+				"垿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -128,
+			"chars": [
+				"梾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -130,
+			"chars": [
+				"ꈍ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -131,
+			"chars": [
+				"懋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -132,
+			"chars": [
+				"奋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -134,
+			"chars": [
+				"瑬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -135,
+			"chars": [
+				"肤"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -140,
+			"chars": [
+				"程"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -141,
+			"chars": [
+				"磉"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -144,
+			"chars": [
+				"匮"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -146,
+			"chars": [
+				"斯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -148,
+			"chars": [
+				"暿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -150,
+			"chars": [
+				"飗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -152,
+			"chars": [
+				"尾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -153,
+			"chars": [
+				"毪"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -155,
+			"chars": [
+				"轵"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -157,
+			"chars": [
+				"浬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -158,
+			"chars": [
+				"腒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -159,
+			"chars": [
+				"侣"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -160,
+			"chars": [
+				"骷"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -162,
+			"chars": [
+				"淟"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -164,
+			"chars": [
+				"囩"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -165,
+			"chars": [
+				"千"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -166,
+			"chars": [
+				"貉"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -167,
+			"chars": [
+				"陇"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -168,
+			"chars": [
+				"鲌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -169,
+			"chars": [
+				"砵"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -170,
+			"chars": [
+				"蚯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -171,
+			"chars": [
+				"涞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -173,
+			"chars": [
+				"轮"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -174,
+			"chars": [
+				"晌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -175,
+			"chars": [
+				"邿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -177,
+			"chars": [
+				"勹"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -178,
+			"chars": [
+				"夐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -179,
+			"chars": [
+				"暝"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -185,
+			"chars": [
+				"赳"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -185,
+			"chars": [
+				"薄"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -186,
+			"chars": [
+				"盩"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -187,
+			"chars": [
+				"墘"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -189,
+			"chars": [
+				"饼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -190,
+			"chars": [
+				"包"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -192,
+			"chars": [
+				"貌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -193,
+			"chars": [
+				"糈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -198,
+			"chars": [
+				"疍"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -200,
+			"chars": [
+				"饮"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -201,
+			"chars": [
+				"忌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -206,
+			"chars": [
+				"噙"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -206,
+			"chars": [
+				"昔"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -207,
+			"chars": [
+				"体"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -211,
+			"chars": [
+				"糅"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -211,
+			"chars": [
+				"愕"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -216,
+			"chars": [
+				"哑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -218,
+			"chars": [
+				"岭"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -221,
+			"chars": [
+				"驷"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -223,
+			"chars": [
+				"求"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -226,
+			"chars": [
+				"敷"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -258,
+			"chars": [
+				"ꈎ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -290,
+			"chars": [
+				"薸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -514,
+			"chars": [
+				"ꌁ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -790,
+			"chars": [
+				"洱"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -1026,
+			"chars": [
+				"ꌂ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -65536,
+			"height": -32770,
+			"chars": [
+				"ꌃ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 0,
+			"chars": [
+				"ꌄ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 1,
+			"chars": [
+				"ꌅ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 2,
+			"chars": [
+				"ꌆ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 2,
+			"chars": [
+				"羼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 3,
+			"chars": [
+				"香"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 4,
+			"chars": [
+				"ꌈ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 5,
+			"chars": [
+				"ꌉ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 6,
+			"chars": [
+				"ꌋ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 7,
+			"chars": [
+				"ꌌ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 8,
+			"chars": [
+				"晖"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 9,
+			"chars": [
+				"腈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 10,
+			"chars": [
+				"殷"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 11,
+			"chars": [
+				"钵"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 12,
+			"chars": [
+				"麒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 13,
+			"chars": [
+				"谣"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 14,
+			"chars": [
+				"馃"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 15,
+			"chars": [
+				"麈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 15,
+			"chars": [
+				"ꌍ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 16,
+			"chars": [
+				"鼬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 17,
+			"chars": [
+				"诐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 18,
+			"chars": [
+				"棼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 19,
+			"chars": [
+				"鹘"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 20,
+			"chars": [
+				"犟"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 21,
+			"chars": [
+				"顼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 22,
+			"chars": [
+				"钜"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 23,
+			"chars": [
+				"铎"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 24,
+			"chars": [
+				"伴"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 25,
+			"chars": [
+				"夤"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 27,
+			"chars": [
+				"疱"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 29,
+			"chars": [
+				"祯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 30,
+			"chars": [
+				"鸲"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 31,
+			"chars": [
+				"ꌎ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 32,
+			"chars": [
+				"嗰"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 37,
+			"chars": [
+				"臭"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 38,
+			"chars": [
+				"糖"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 40,
+			"chars": [
+				"诅"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 44,
+			"chars": [
+				"孟"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 45,
+			"chars": [
+				"匑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 50,
+			"chars": [
+				"摞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 54,
+			"chars": [
+				"脒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 56,
+			"chars": [
+				"郎"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 63,
+			"chars": [
+				"ꌏ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 82,
+			"chars": [
+				"蒗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 86,
+			"chars": [
+				"缠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 89,
+			"chars": [
+				"剖"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 92,
+			"chars": [
+				"编"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 95,
+			"chars": [
+				"犁"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 97,
+			"chars": [
+				"厑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 100,
+			"chars": [
+				"糊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 101,
+			"chars": [
+				"铑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 105,
+			"chars": [
+				"癃"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 113,
+			"chars": [
+				"莸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 114,
+			"chars": [
+				"硅"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 122,
+			"chars": [
+				"痪"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 124,
+			"chars": [
+				"锗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 127,
+			"chars": [
+				"ꌐ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 130,
+			"chars": [
+				"禘"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 135,
+			"chars": [
+				"群"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 145,
+			"chars": [
+				"囱"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 156,
+			"chars": [
+				"笯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 160,
+			"chars": [
+				"囪"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 180,
+			"chars": [
+				"清"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 182,
+			"chars": [
+				"皂"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 192,
+			"chars": [
+				"启"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 216,
+			"chars": [
+				"蒸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 255,
+			"chars": [
+				"ꌑ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 511,
+			"chars": [
+				"ꌒ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 1023,
+			"chars": [
+				"ꌓ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -65536,
+			"height": 32767,
+			"chars": [
+				"ꌔ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -3,
+			"chars": [
+				"ꌕ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -110,
+			"chars": [
+				"婆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -4,
+			"chars": [
+				"ꌖ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -5,
+			"chars": [
+				"ꌗ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -6,
+			"chars": [
+				"ꌘ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -7,
+			"chars": [
+				"ꌙ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -8,
+			"chars": [
+				"ꌚ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -9,
+			"chars": [
+				"ꌛ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -10,
+			"chars": [
+				"ꌜ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -12,
+			"chars": [
+				"扌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -18,
+			"chars": [
+				"ꌝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -34,
+			"chars": [
+				"ꌞ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -66,
+			"chars": [
+				"ꌟ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -80,
+			"chars": [
+				"汀"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -130,
+			"chars": [
+				"ꌠ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -258,
+			"chars": [
+				"ꌡ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -514,
+			"chars": [
+				"ꌢ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": -1026,
+			"chars": [
+				"ꌣ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -65536,
+			"height": -32770,
+			"chars": [
+				"ꌤ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 0,
+			"chars": [
+				"ꌥ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 1,
+			"chars": [
+				"ꌦ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 2,
+			"chars": [
+				"ꌧ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 3,
+			"chars": [
+				"ꌨ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 4,
+			"chars": [
+				"ꌩ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 5,
+			"chars": [
+				"ꌪ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 6,
+			"chars": [
+				"ꌫ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 7,
+			"chars": [
+				"ꌬ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 15,
+			"chars": [
+				"ꌭ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 31,
+			"chars": [
+				"ꌮ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 63,
+			"chars": [
+				"ꌯ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 70,
+			"chars": [
+				"洌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 125,
+			"chars": [
+				"渌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 127,
+			"chars": [
+				"ꌰ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 190,
+			"chars": [
+				"溺"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 255,
+			"chars": [
+				"ꌱ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 511,
+			"chars": [
+				"ꌲ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -32768,
+			"height": 1023,
+			"chars": [
+				"ꌳ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_nosplit.png",
+			"ascent": -65536,
+			"height": 32767,
+			"chars": [
+				"ꌴ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/emojis/emojis.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"ꌵꌶꌷꌸꌹ臜爟灿辉煓耀数舡舾舸艋咭嘻嘭喤嗥",
+				"ꌺꌻꌼꌽꌾ胝爅烟煨焯煺熵艇舲艅舴唣噢响咱哝",
+				"ꌿꍀꍁꍂꍃ胍炷炕炆熥熇焞舱虒舭鸼啾咯咚呼哌",
+				"ꍄꍅꍆꍇꍈ脾爙燧焙炫土埘咎篙舠艉唾听噬叽哚",
+				"ꍉꍊꍋꍌ섰舀声坦垾堤埸堨簇笠艨艏嘚吒吽哦兄",
+				"ꍍꍎꍏꍐꍑ腴塌垠墁冉堋埒艚舢篱航嗅呱啤嗖唆",
+				"ꍒꍓꍔꍕꍖ膊壳觳悫坥壸垌舫舻艟舷嘛嘁哞喊吮",
+				"ꍗꍘꍙꍚꍛ朘壹垺坝坰壶坍戈、丶良啷哺吠咙咏",
+				"ꍜꍝꍞꍟꍠ脏赫赭郝赦坋赧宀塱鵏郙唉咍唳叶嘟",
+				"ꍡꍢꍣꍤꍥ脯丧增啬赪坡榖能翩廞床嗔哱嗦嚓喃",
+				"鄀鄁鄂鄐鄑胈寺块瞽墚馨鼙术麻糜黁嚏囔味吱咤",
+				"鄒鄓鄔鄕鄖胧磬罄謦埫縠垙麽麾魔靡喀戢嘲哮喧",
+				"鄗鄘鄙鄚鄿脉款垱圭堎墙封磨摩书縻咛啶嗜哓嘧",
+				"縢塍螣腾媵消垚邽恚卦垧垍昶盚皴姿嗐咕噻喷嘹",
+				"肚氍貔腯貊盍墦坂垎塮圲塅裘禔视祖咴喹呔唏唵",
+				"貆肌冗股貅埌埵圻垢甏坼垛禅社祾祛咦愍啭另叻",
+				"豹胜貂貘见圹圫埠坻坬埤去禧卬睾鷭跗踟跄趵跸",
+				"莙节茝蓼荨荩薜苣芑井并並荆苷萁葚瓶鹢善荓蒴",
+				"岣崿岷崌岖嶍岠岂屺崛嵘崂嵌嵁酆嵯嵫嶟出屾觊",
+				"族施旎旗於旒鸬避旞立音竟章意竭遒亲竦产飒坢",
+				"迟旃旌旄旅旆放旖旐旋ꑝꑝꑝꑝꑝ囁囂囃囄囅囈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/emojis/emojis.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"烽脎然肱肽网少煌燠烅省燔篾箩箅粤咖吊咉啸虽",
+				"刚腌胯胰军肋烙烀熘煅劣炘鄱鹠翻臼啡呻黾咺踪",
+				"胁肿朓腓刖胂熄烁熜烺焌炉盥身舆叟踢蹋跟嚅跚",
+				"且肛囗臑胚县煸煽熔烤煊烷歃臾舄舁踩嚯蹈唝踶",
+				"肝爰助删具肟烧煳尖烠瞥燎鼠舅忄昝蹊趴哂蹭吁",
+				"朊雎同膈豚冢尜煃氅烯鳖憋舥舰盘艄蹅跛踏蹚蹐",
+				"冠膘腼腰冤孚蹩弊炼烛烑焖舶艎舨篷躞呸呈跱跬",
+				"腱脆肷胫膙肠烜烦兴焐灯炣般船簉艘哢踒蹯路跣",
+				"贝赗腹赐肭赒炳炻光熛焕燏舣舵笾舯蹓踵踬跃踽",
+				"赑赠财赕贩赂焰烶烻炊烃炀螽舳祈祋跺跌躜跞踉",
+				"胗贬赙赃贼贱雀燋焓炌爚烩祗祇祓禛咥践跋跆蹁",
+				"赇贻赌贮赎贿烨熻炸炝灼炮祜祐祧神踱躔踮蹿跂",
+				"则脍脸祭赈腧炖半眷桊叛判应祆祏福蹜跎跷蹂叮",
+				"赋赡脞罂败赊豢鲞拳炜券翷禋祢祁弋吴蹽踦跨呖",
+				"胣购账贶胙赆卷粼誊焆炽燥祃祚祕鲶跏呒哽跳蹰",
+				"赚婴贴赔赅脂燀当熠烬炬焗禊祷鮡鮀噁跖唔趼蹶",
+				"胀朐胞肫胸用烘爔煤烂煁烊祸祀粥鰊踺跪咧蹬呵",
+				"蠲蒹朔馘菡茁戡孳兹苡慈菇勘药薅荮荭蕴莼茹芗",
+				"粜凯剀祟崡幽崮岬嵎崽峧崒嵩崞屿巇嶂女娼媪媚",
+				"道竣辛端妾遭童遵站辿龈龃齼龋龂齯离齮遄龉坣",
+				"竑竫遂竘靖竞翊进迸遘ꑝꑝꑝꑝꑝ囉囋囌囍囎囏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/speech.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"谿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/error_mark.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"膣冈鏻鎓矣耩",
+				"纤缎缍绗缴缵"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/partyban.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"戎"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/title_5ch.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝ",
+				"ꑝ篚ꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/9xdia.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"钤"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/banners.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"선",
+				"섙",
+				"석",
+				"섟",
+				"서",
+				"섞",
+				"酵",
+				"섡",
+				"셇",
+				"앒",
+				"섛",
+				"섚",
+				"앓",
+				"鄎",
+				"鄏",
+				"鄋",
+				"賸",
+				"滕",
+				"鉮",
+				"쐆",
+				"뜅",
+				"뜆",
+				"뜇",
+				"뜈",
+				"뜉",
+				"뜊",
+				"뜋",
+				"뜌",
+				"솂",
+				"木",
+				"杳",
+				"鐩",
+				"榅",
+				"楣",
+				"扫",
+				"醮",
+				"酶",
+				"骎",
+				"鲟",
+				"职",
+				"擘",
+				"蓟",
+				"峁",
+				"彘",
+				"嘍",
+				"嘐",
+				"嘑",
+				"嘓",
+				"嘔",
+				"嘕",
+				"嘖",
+				"嘗",
+				"嘙",
+				"嘜",
+				"嘝",
+				"嘠",
+				"厏",
+				"嵺",
+				"嵻",
+				"埐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/bars/40f.png",
+			"ascent": 25,
+			"height": 72,
+			"chars": [
+				"茆茨",
+				"芊藏",
+				"茱芝",
+				"董藨",
+				"荞鹚",
+				"芹苔",
+				"芟芦",
+				"芃萹",
+				"薇蔗",
+				"荇蔼",
+				"蘅卅",
+				"蓰靼",
+				"蓏鞮",
+				"葎鞨",
+				"茚靶",
+				"莪荸",
+				"苼萳",
+				"芼带",
+				"薛茓",
+				"蒐葖",
+				"蘶蓉",
+				"茋蘖",
+				"芪鞁",
+				"蔸靺",
+				"萆芰",
+				"蓖鞘",
+				"萸糵",
+				"莨靽",
+				"藦鞋",
+				"蘑鞒",
+				"蘼靳",
+				"茂蕙",
+				"蒇鞍",
+				"葴著",
+				"葳荖",
+				"蓢勒",
+				"莆鞅",
+				"茇萋",
+				"茏苎",
+				"莽蔻"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/title_ico.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"솁뜖솣솊솗솑솠솢솔솓솉솦솏솋뜗솖솆솕",
+				"뜘손솤뜛뜙뜚속솄솇송솅소솃솧솘솙뜝솨",
+				"솥뜜솞솎솈솟睽瞪睁瞿睢矍瞧睑盷盹鹞睛",
+				"眠瞩眍眶瞒瞄朏鼎眦瞳ꑝ妥奚鹦胭胛爵腘",
+				"腮丹腿膪膀鄫ꑝ彤ꑝ肮肪脐胩腋胪写臆脑",
+				"臃胲膻金甑渗幸敌瑞璀瑑瑙理珚瓃璨琡琉",
+				"쌆쌈쐂쌇쐁凛珫玟斑琏玼琂琗琥璩玷琼瓖",
+				"玙璇璋璲琎璃玹璮瓌瓋厂原巩邪雅餮鸦叆",
+				"至魂厌ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"鳟懂鳒鲻搌措撒拱唿吡哔喋ꑝꑝꑝꑝꑝꑝ",
+				"捱捯扞掭抚捂振打拓扼撅表素摽纛ꑝꑝꑝ",
+				"毒挽换拯扭揉扔掐专捅抒撖挺搦揆揳ꑝꑝ",
+				"掖摅掳拈搞掠攘拉揞撞ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"趺蹑啄呃关鞑靿鞲妪娟娲娱匧匩匬ꑝꑝꑝ",
+				"岃岄岅ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/title_ico_tab.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"彳得爬很衢徂徭彼符徕衍徜待街徒徨循役",
+				"瓞徼筏衠德徛筱徘律籥筌衎签行鸻答衙征",
+				"篌衡酂径徐御衔徇篯彻笮徉徽徵微媭後徊",
+				"往彷衒徙乇昏筷笏剩筚ꑝ笣印牛筢犋看掰",
+				"籍箨牡特牿牲ꑝ牦ꑝ我犏牻犊牯筹犄生箐",
+				"牺牾箦拜犍失牧鹄厨元厦鼋巧亏丁殂殍銎",
+				"筘箍箝毛牥冖殚烈型殪歼殊殁歹残殆殖殡",
+				"邛殃蛩列顶殛邒殄殓殇死恐殉可殒跫殣裂",
+				"仄丙觋ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"酡悔耦耪掘摸捞撕啕喈咆吨ꑝꑝꑝꑝꑝꑝ",
+				"踅搁抽抻拽誓扛青攉责摴擂麦抔抨ꑝꑝꑝ",
+				"鳌奉聱挟嶅拣晢扪揽帮蜇拂挑排哲捣ꑝꑝ",
+				"掊接摛搐擅抃擿口唱唧ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"嗝踞距跽获荻檠艾娓絮恕娵匨匫匭ꑝꑝꑝ",
+				"屷屸屽ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/titles.png",
+			"ascent": 6,
+			"height": 7,
+			"chars": [
+				"倸ノハ",
+				"傪ㄗ傤",
+				"ㄘ傦丂",
+				"丄丒丠",
+				"両丣丮",
+				"丱丳丵",
+				"丼乆乊",
+				"乑乕乗",
+				"也乣乤",
+				"乥乧乨",
+				"乪乫乬",
+				"乭乮乯",
+				"乲乴乵",
+				"乶乷乸",
+				"乻乼乽",
+				"乿亀亂",
+				"亃亄亅",
+				"亊亐亖",
+				"亗亙亞",
+				"亣亪亯",
+				"劵劷効",
+				"亰亱亷",
+				"仈仛仠",
+				"仢仧仩",
+				"仮仯仱",
+				"仸仹仺",
+				"伀伂伆",
+				"伇伌伒",
+				"伓伕伖",
+				"伜伡伩",
+				"伬伮伱",
+				"伳伵伷",
+				"伹伻伿",
+				"佀佂侶",
+				"佄佅佇",
+				"佈佉佊",
+				"佋佌佒",
+				"佔佡佢",
+				"佨佪佫",
+				"佭佮佲",
+				"併佷佹",
+				"侀侅來",
+				"侊侐侒",
+				"侓侕侖",
+				"侙侚侜",
+				"侞侟価",
+				"侢侤侫",
+				"侭侰侳",
+				"侷侸俷",
+				"侺侻侼",
+				"侽侾俀",
+				"俁係俆",
+				"俇俈俉",
+				"俋俌俒",
+				"俓俔俖",
+				"俛俠俢",
+				"俤俥俬",
+				"俰俲俴",
+				"俻俼俽",
+				"倀倁倅",
+				"倆俹倇",
+				"倈倉倊",
+				"個倎們",
+				"倖倗倛",
+				"倝倢倣",
+				"倫倯倰",
+				"倱倲倳",
+				"倵倶倷",
+				"偀偂偄",
+				"偅偆偉",
+				"偊偋偍",
+				"労匰匱",
+				"匲岆岇",
+				"岉ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -20,
+			"chars": [
+				"咋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -50,
+			"chars": [
+				"咿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/confhousing.png",
+			"ascent": -60,
+			"height": 14,
+			"chars": [
+				"挎",
+				"执",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/confhousing.png",
+			"ascent": -77,
+			"height": 14,
+			"chars": [
+				"搠",
+				"描",
+				"撙",
+				"匝",
+				"卫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/leavehome.png",
+			"ascent": -59,
+			"height": 16,
+			"chars": [
+				"孑",
+				"勬",
+				"勭",
+				"勯",
+				"勲",
+				"勳"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/spawn.png",
+			"ascent": 15,
+			"height": 25,
+			"chars": [
+				"锞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/death.png",
+			"ascent": 41,
+			"height": 60,
+			"chars": [
+				"妈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/homebutton.png",
+			"ascent": -59,
+			"height": 16,
+			"chars": [
+				"俱",
+				"侗",
+				"俘",
+				"肉",
+				"傺",
+				"侧",
+				"佣",
+				"傒",
+				"佾",
+				"俗",
+				"份",
+				"僧",
+				"休",
+				"叙",
+				"煲",
+				"馄",
+				"馒",
+				"馉",
+				"馁",
+				"馇",
+				"馌",
+				"饷",
+				"饭",
+				"饹",
+				"捌",
+				"撰",
+				"抿",
+				"捉",
+				"韦",
+				"韫",
+				"揠",
+				"韬",
+				"招",
+				"韨",
+				"摄",
+				"揶",
+				"据",
+				"抠",
+				"捃",
+				"戆",
+				"迤",
+				"迮",
+				"虍",
+				"赀",
+				"柴",
+				"敦",
+				"鹑",
+				"攴",
+				"督",
+				"粲",
+				"壑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/final_lock.png",
+			"ascent": 32,
+			"height": 32,
+			"chars": [
+				"섋섌섍섎섓"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:minecoin_numbers.png",
+			"ascent": -55,
+			"height": 22,
+			"chars": [
+				"성섲섳섴섵섶섷세섹셀"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/login.png",
+			"ascent": 42,
+			"height": 160,
+			"chars": [
+				"庳"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:minecoin_numbers.png",
+			"ascent": -14,
+			"height": 8,
+			"chars": [
+				"飕凡风筵第颓箓夙飏簦"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:minecoin_comma.png",
+			"ascent": -14,
+			"height": 8,
+			"chars": [
+				"飑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/inventory_scroll.png",
+			"ascent": -12,
+			"height": 93,
+			"chars": [
+				"洣瀵潾溇淡沙洸泮圣瀔酯酏酌酲面"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/friends_scroll.png",
+			"ascent": -10,
+			"height": 57,
+			"chars": [
+				"腺脓豺胳滇浡溹溶渤潮觯觖觫觥堕觟觚奂觭勇触负觞隳恿鹬角解"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/friends_scroll.png",
+			"ascent": -28,
+			"height": 57,
+			"chars": [
+				"ꑝꑝꑝꑝ擦攮撺控挖技ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/dmtitle.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"忧慵慷匀怡憾悈惦慎悖忮悰愃惋愭鸨怙愤憭恢匆怖肄惰疑惭孔孩剥亟丞烝卺尔鰶鯻"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/alphabet.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"纫绍缪纪妍娅缢缂绀牂缮缣绌婳继纠缘缫缁细嫖媔缳缌缧绰",
+				"纰绁纯绑绩纬辔绢织绳缗缲缉缔绞嫣缝缒纺统纹缱缟缡娩好",
+				"彾彿徃徆徍徎徏徑従徔徖徚徝從徟徠徢徣徤徥徦復徫徬徯徰",
+				"徱徲徶徸徹徺徻徾徿忀忁忂必忇忊忋忎忏忓忔忕忖忛忟忣忥",
+				"忦忨忩忪快忯忰忲忴忶忻忼忽怇怈怉怋怌怐怑怓怕怗怘怚怞",
+				"怢性怪怬怭怮怯怰怱怲怳怴怶怷怸怹怺怽怾怿恀恃恄恅恆恇",
+				"恈恊恍恎恏恑恗恘恛恜恞恟恠恡恤恥恦恨恪恫恬恮恱恲恴恵",
+				"恽恾悀悁悂悄悅悇悊悋悌悎悏悐悓悕悗悘悙悚悛悞悢悤悧悩"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/list.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"韧"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/tut.png",
+			"ascent": 6,
+			"height": 7,
+			"chars": [
+				"婭"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/view_profile/numbervalue.png",
+			"ascent": 14,
+			"height": 15,
+			"chars": [
+				"忑醯醉醵醇醅醨下焉正"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/view_profile/commavalue.png",
+			"ascent": 13,
+			"height": 15,
+			"chars": [
+				"丐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:minecoin_comma.png",
+			"ascent": -10,
+			"height": 8,
+			"chars": [
+				"뜤"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:minecoin_numbers.png",
+			"ascent": -10,
+			"height": 8,
+			"chars": [
+				"뜥뜦뜧뜨뜩뜪뜫뜬뜭뜮"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:premium_numbers.png",
+			"ascent": -28,
+			"height": 8,
+			"chars": [
+				"颂瓮翁鋐郸冁父爸斧釜爹兮弟"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:minecoin_hud_comma.png",
+			"ascent": -28,
+			"height": 8,
+			"chars": [
+				"뜯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:minecoin_numbers.png",
+			"ascent": -27,
+			"height": 8,
+			"chars": [
+				"뜰뜱띀띁띂띃섁섂섃섄"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/gem_1ui.png",
+			"ascent": -36,
+			"height": 8,
+			"chars": [
+				"씂"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/gem_1val.png",
+			"ascent": 14,
+			"height": 30,
+			"chars": [
+				"免孤"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:minecoin_numbers.png",
+			"ascent": -33,
+			"height": 8,
+			"chars": [
+				"埼垮埭圳赤垏坤垣堧毂"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:minecoin_hud_comma.png",
+			"ascent": -34,
+			"height": 8,
+			"chars": [
+				"坞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:minecoin_numbers.png",
+			"ascent": -3,
+			"height": 8,
+			"chars": [
+				"桴僰樱相枣朳松枍梯棁"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:minecoin_numbers.png",
+			"ascent": -27,
+			"height": 8,
+			"chars": [
+				"镟铲锌镱锫镜铉年傣俦"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:minecoin_comma.png",
+			"ascent": -28,
+			"height": 8,
+			"chars": [
+				"俸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:realm_logo.png",
+			"ascent": 32,
+			"height": 80,
+			"chars": [
+				"셚셙",
+				"션셗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/14xico.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"埴셆鸹筥允成庥玗ꑝ礓小ꑝꑝꑝꑝꑝ玸ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/14xico.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ尕弨弭刍孕ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/14xico.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ꑝꑝꑝꑝꑝꑝꑝꑝ磴ꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/7xico.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"邹雏急戤皱"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/hudtimer.png",
+			"ascent": 0,
+			"height": 15,
+			"chars": [
+				"溚",
+				"洋",
+				"溠",
+				"灌",
+				"洴",
+				"汫",
+				"湴",
+				"溯",
+				"滋",
+				"漕",
+				"澧",
+				"汕",
+				"鎏",
+				"漴",
+				"汹",
+				"湍"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/hudstart.png",
+			"ascent": 0,
+			"height": 15,
+			"chars": [
+				"溦",
+				"漼",
+				"涔",
+				"汝",
+				"潍",
+				"洳",
+				"淄",
+				"沺",
+				"渭",
+				"反",
+				"夂",
+				"条",
+				"槃",
+				"箔",
+				"簿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/hudstart.png",
+			"ascent": -5,
+			"height": 15,
+			"chars": [
+				"辑",
+				"轫",
+				"轺",
+				"辄",
+				"辗",
+				"轧",
+				"辎",
+				"辙",
+				"较",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"辏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/hudtimer.png",
+			"ascent": -5,
+			"height": 15,
+			"chars": [
+				"痼",
+				"痹",
+				"瘰",
+				"疰",
+				"疵",
+				"瘁",
+				"瘀",
+				"瘴",
+				"癔",
+				"痃",
+				"中",
+				"丨",
+				"旧",
+				"袒",
+				"裼",
+				"褐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/play.png",
+			"ascent": 40,
+			"height": 40,
+			"chars": [
+				"撂",
+				"掼",
+				"啊",
+				"器",
+				"薹"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/play.png",
+			"ascent": 25,
+			"height": 40,
+			"chars": [
+				"屹",
+				"嵚",
+				"岞",
+				"峋",
+				"嶷"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/bars/expbar.png",
+			"ascent": -81,
+			"height": 7,
+			"chars": [
+				"藓蔬",
+				"蓣芡",
+				"葵茎",
+				"荬芮",
+				"茶苻",
+				"萑茌",
+				"蕉荏",
+				"葰苓",
+				"茯芩",
+				"菍蘩",
+				"茽莜",
+				"养芥",
+				"荼荃",
+				"荟蔹",
+				"莶荷",
+				"苁莝",
+				"花鹲",
+				"蒨葆",
+				"苍莓",
+				"蓓莅",
+				"芯荀",
+				"菊苾",
+				"芴芍",
+				"葡薿",
+				"葱苌",
+				"萄芘",
+				"荜蕊",
+				"苟蔃",
+				"苞蒈",
+				"茑羊",
+				"芈羯",
+				"羓着",
+				"藉藕",
+				"萚葜",
+				"羖羝",
+				"蒱羧",
+				"菝蓁",
+				"差菁",
+				"羱羞",
+				"羟芙",
+				"羚苇",
+				"翔羌",
+				"羰蕺",
+				"蕗鄯",
+				"莴敬",
+				"莒萼",
+				"葭葺",
+				"苠苉",
+				"蔚苕",
+				"蕻茸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/bars/eventxpbar.png",
+			"ascent": -36,
+			"height": 5,
+			"chars": [
+				"鋆圩",
+				"坏坪",
+				"坯堐",
+				"塬垤",
+				"坜埂",
+				"坛圬",
+				"圢坷",
+				"塥垭",
+				"堙堍",
+				"埆圾",
+				"彀埇",
+				"埏坎",
+				"场趄",
+				"趟堆",
+				"趱坽",
+				"趑埝",
+				"越赵",
+				"赶趔",
+				"圪堠",
+				"趋趁",
+				"垲坳",
+				"堟埋",
+				"毐堌",
+				"堽塄",
+				"坶塝",
+				"盐墒",
+				"塆墩",
+				"坑坊",
+				"堉坟",
+				"垯埗",
+				"址走",
+				"墟坫",
+				"壕壤",
+				"垆垃",
+				"培境",
+				"垴垓",
+				"竹丿",
+				"白馧",
+				"皭泉"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/bars/multiplierbar.png",
+			"ascent": -36,
+			"height": 5,
+			"chars": [
+				"国畀",
+				"圄园",
+				"町畏",
+				"囝墅",
+				"囚畛",
+				"囹畋",
+				"界囵",
+				"思囫",
+				"毗囤",
+				"畴圊",
+				"围回",
+				"圆疁",
+				"嬲圌",
+				"囡累",
+				"鹮翾",
+				"圐圜",
+				"罍母",
+				"疃卜",
+				"桌卓",
+				"歆暹",
+				"韵遏",
+				"韶遢",
+				"邈帝",
+				"啻睿",
+				"望甗",
+				"贞遥",
+				"迥敲",
+				"旁六",
+				"觑商",
+				"銮栾",
+				"变兖",
+				"衮交",
+				"奕蛮",
+				"弯孪",
+				"脔恋",
+				"鸾挛",
+				"弈峦",
+				"娈亸",
+				"新过"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/xpbar.png",
+			"ascent": -36,
+			"height": 5,
+			"chars": [
+				"趯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/hudheart.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"沼臧醚胥钲怊绚",
+				"齘龁龀龅鹫龊吋",
+				"妏妐妑妔娬ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/hudicons.png",
+			"ascent": -25,
+			"height": 11,
+			"chars": [
+				"涡",
+				"湣",
+				"澡",
+				"汜",
+				"泯",
+				"浞",
+				"渠",
+				"涮"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/hudiconslobby.png",
+			"ascent": -30,
+			"height": 12,
+			"chars": [
+				"螫",
+				"却",
+				"绠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -17,
+			"chars": [
+				"指"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 29,
+			"chars": [
+				"掬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/dodgeball/ksnum.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"钇铯锰钮铭铤键锕钌钦"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -162,
+			"chars": [
+				"倦"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/notifications/announce_frame.png",
+			"ascent": 6,
+			"height": 40,
+			"chars": [
+				"逗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/notifications/notifications.png",
+			"ascent": 6,
+			"height": 40,
+			"chars": [
+				"這皛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/chatsmall1.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"陀",
+				"骐",
+				"珨",
+				"隔",
+				"际",
+				"愠",
+				"惺",
+				"慨",
+				"怛",
+				"悍",
+				"捐",
+				"陈",
+				"鲯",
+				"玱",
+				"隐",
+				"阢",
+				"侃",
+				"龛",
+				"颔",
+				"颌",
+				"俣",
+				"损",
+				"员",
+				"哃",
+				"咀",
+				"剐",
+				"喇",
+				"噤",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"茫",
+				"蔊",
+				"蔽",
+				"蒌",
+				"菼",
+				"薮",
+				"芏",
+				"苒",
+				"荛",
+				"鞫",
+				"ꑝ",
+				"ꑝ",
+				"萜",
+				"蓝",
+				"茀",
+				"蒋",
+				"峏",
+				"崖",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"弩",
+				"孥",
+				"驽",
+				"胬",
+				"怒",
+				"嫦",
+				"綝",
+				"妙",
+				"縯",
+				"綄",
+				"姯",
+				"綪",
+				"婘",
+				"纆",
+				"綧",
+				"綡",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"迫",
+				"遑",
+				"ꑝ",
+				"ꑝ",
+				"叓",
+				"叜",
+				"ꑝ",
+				"ꑝ",
+				"娮",
+				"娯",
+				"ꑝ",
+				"ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/chatsmall3.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"阵",
+				"鳠",
+				"珣",
+				"除",
+				"队",
+				"倩",
+				"傃",
+				"债",
+				"俵",
+				"传",
+				"拐",
+				"啁",
+				"嗳",
+				"啉",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"盖",
+				"菱",
+				"蔷",
+				"羔",
+				"鞠",
+				"ꑝ",
+				"革",
+				"茧",
+				"峘",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"纕",
+				"嫱",
+				"娃",
+				"奘",
+				"姞",
+				"嬉",
+				"婞",
+				"媓",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"亹",
+				"ꑝ",
+				"叝",
+				"ꑝ",
+				"娰",
+				"ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/chatsmall4.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"隋",
+				"鲜",
+				"瑟",
+				"陶",
+				"险",
+				"伟",
+				"傲",
+				"智",
+				"盒",
+				"保",
+				"操",
+				"邑",
+				"哏",
+				"喳",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"羹",
+				"葑",
+				"羲",
+				"爇",
+				"蓍",
+				"ꑝ",
+				"萧",
+				"蒉",
+				"岫",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"妊",
+				"姂",
+				"姝",
+				"妖",
+				"娇",
+				"姤",
+				"飨",
+				"婚",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"返",
+				"ꑝ",
+				"叡",
+				"ꑝ",
+				"娳",
+				"ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/chatsmall1.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"灵",
+				"匡",
+				"司",
+				"羽",
+				"羿",
+				"翼",
+				"翠",
+				"翯",
+				"翌",
+				"孱",
+				"屙",
+				"尺",
+				"萌",
+				"莳",
+				"草",
+				"莫",
+				"暮",
+				"幕",
+				"墓",
+				"蓦",
+				"慕",
+				"摹",
+				"募",
+				"葛",
+				"鹊",
+				"蕞",
+				"芭",
+				"茛",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"鞭",
+				"靴",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"嶝",
+				"峗",
+				"婇",
+				"婤",
+				"姐",
+				"媛",
+				"媱",
+				"娣",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"幼",
+				"妫",
+				"以",
+				"始",
+				"妒",
+				"幻",
+				"媥",
+				"嬚",
+				"娏",
+				"畿",
+				"嫃",
+				"婻",
+				"妹",
+				"妓",
+				"姹",
+				"姥",
+				"ꑝ",
+				"ꑝ",
+				"彦",
+				"遛",
+				"ꑝ",
+				"ꑝ",
+				"叢",
+				"叴",
+				"ꑝ",
+				"ꑝ",
+				"娷",
+				"娸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/chatsmall3.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"屋",
+				"昼",
+				"医",
+				"匼",
+				"鄹",
+				"咫",
+				"蔓",
+				"蓂",
+				"蓇",
+				"觏",
+				"典",
+				"蓥",
+				"菜",
+				"荣",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"菀",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"巉",
+				"婵",
+				"断",
+				"嫩",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"嫁",
+				"婉",
+				"嫔",
+				"娆",
+				"姑",
+				"婠",
+				"嫽",
+				"婍",
+				"ꑝ",
+				"迁",
+				"ꑝ",
+				"叺",
+				"ꑝ",
+				"娹"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/chatsmall4.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"翀",
+				"尽",
+				"尼",
+				"匜",
+				"屁",
+				"屉",
+				"槊",
+				"荥",
+				"荧",
+				"藤",
+				"塑",
+				"茔",
+				"荦",
+				"苋",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"蓿",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"峥",
+				"剿",
+				"婡",
+				"奴",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"嫉",
+				"凵",
+				"姨",
+				"爿",
+				"姚",
+				"收",
+				"娴",
+				"妯",
+				"ꑝ",
+				"遁",
+				"ꑝ",
+				"厓",
+				"ꑝ",
+				"娻"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/numbersannouncement.png",
+			"ascent": 1,
+			"height": 9,
+			"chars": [
+				"嫘姆媂嫡姣婌妨嫭婋",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/numbersannouncement.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"婷嫜嬗田胃颙愚四圙",
+				"果困团颗夥黠黢默黪"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/message_icon.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"逑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/snowmelt.png",
+			"ascent": 13,
+			"height": 25,
+			"chars": [
+				"姊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/crates/crate_animate.png",
+			"ascent": -12,
+			"height": 44,
+			"chars": [
+				"腑",
+				"悬",
+				"腻",
+				"胎",
+				"臁"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/market/market_scroll.png",
+			"ascent": -27,
+			"height": 59,
+			"chars": [
+				"滴滦洨湙湾滚扶撵扣挹媃奶妤婀娽"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/market/themes_scroll.png",
+			"ascent": -29,
+			"height": 76,
+			"chars": [
+				"孺眢弢勉頠怨"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/market/themes_scroll_large.png",
+			"ascent": -12,
+			"height": 93,
+			"chars": [
+				"里畤黑墨畦野龆龌龇亡肓膂裔盲壅"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/crates/crate_n.png",
+			"ascent": -80,
+			"height": 16,
+			"chars": [
+				"息"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/crates/crate_c.png",
+			"ascent": -80,
+			"height": 16,
+			"chars": [
+				"鬼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/crates/crate_r.png",
+			"ascent": -80,
+			"height": 16,
+			"chars": [
+				"臬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/crates/crate_e.png",
+			"ascent": -47,
+			"height": 16,
+			"chars": [
+				"毯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/crates/crate_m.png",
+			"ascent": -47,
+			"height": 16,
+			"chars": [
+				"毳"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/items/premium_token.png",
+			"ascent": -47,
+			"height": 16,
+			"chars": [
+				"氇"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/market/mkt_list_off.png",
+			"ascent": -97,
+			"height": 14,
+			"chars": [
+				"씘",
+				"씗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/market/mkt_list_off.png",
+			"ascent": -95,
+			"height": 14,
+			"chars": [
+				"笃",
+				"飔",
+				"岕",
+				"岝"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/market/listingsbutton.png",
+			"ascent": -94,
+			"height": 16,
+			"chars": [
+				"颡",
+				"漆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/menu_titles/menu_titles.png",
+			"ascent": 19,
+			"height": 20,
+			"chars": [
+				"앗",
+				"았",
+				"앙",
+				"앚",
+				"앞",
+				"앟",
+				"애",
+				"액",
+				"앢",
+				"앣",
+				"雕",
+				"앥",
+				"앦",
+				"憩",
+				"앨",
+				"逈",
+				"狝",
+				"逊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/announce_bars/announce_bars.png",
+			"ascent": 9,
+			"height": 16,
+			"chars": [
+				"逸",
+				"逹",
+				"逺",
+				"逼",
+				"逽",
+				"庾",
+				"嚼",
+				"饕",
+				"崔"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/request_buttons.png",
+			"ascent": -61,
+			"height": 15,
+			"chars": [
+				"庄",
+				"庱",
+				"庤",
+				"戊",
+				"酢"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/party/party_people.png",
+			"ascent": -4,
+			"height": 72,
+			"chars": [
+				"欻氆図"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/party/party_chat.png",
+			"ascent": -4,
+			"height": 17,
+			"chars": [
+				"箬",
+				"簧",
+				"廆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/party/party_games.png",
+			"ascent": -22,
+			"height": 17,
+			"chars": [
+				"腭",
+				"尘",
+				"废"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/party/party_invite.png",
+			"ascent": -40,
+			"height": 17,
+			"chars": [
+				"凸",
+				"祊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/party/partyplayers.png",
+			"ascent": -7,
+			"height": 14,
+			"chars": [
+				"囶",
+				"囸",
+				"囻",
+				"囼",
+				"圀",
+				"圁",
+				"圂",
+				"圅",
+				"圇",
+				"國",
+				"圍",
+				"嘾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/party/partyplayers.png",
+			"ascent": -25,
+			"height": 14,
+			"chars": [
+				"圎",
+				"圑",
+				"園",
+				"圓",
+				"圔",
+				"圕",
+				"圗",
+				"團",
+				"圚",
+				"圛",
+				"圝",
+				"噃"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/party/partyplayers.png",
+			"ascent": -43,
+			"height": 14,
+			"chars": [
+				"圞",
+				"圠",
+				"圤",
+				"圥",
+				"圦",
+				"圱",
+				"圴",
+				"圵",
+				"圶",
+				"圷",
+				"圼",
+				"噄"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/party/partyplayers.png",
+			"ascent": -61,
+			"height": 14,
+			"chars": [
+				"圽",
+				"圿",
+				"坁",
+				"坃",
+				"坄",
+				"坅",
+				"坓",
+				"坕",
+				"坖",
+				"坘",
+				"坙",
+				"噆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/party/party_create.png",
+			"ascent": -58,
+			"height": 17,
+			"chars": [
+				"皿",
+				"豸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -172,
+			"chars": [
+				"毽"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -90,
+			"chars": [
+				"鼻"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/view_profile/theme_sprite.png",
+			"ascent": -9,
+			"height": 60,
+			"chars": [
+				"汈漏淠糍颉皖鳐鲏",
+				"浸濯溷娄埚皋驵鲖",
+				"洭渥泅料堰帛鳗鲷",
+				"漻浔涠喆喜座鳎鲃"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/view_profile/profile_ui_overlay.png",
+			"ascent": -4,
+			"height": 72,
+			"chars": [
+				"潺浕笼埙"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/view_profile/button_icons.png",
+			"ascent": -6,
+			"height": 66,
+			"chars": [
+				"泥澼氾漠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/view_profile/title_sprite.png",
+			"ascent": -9,
+			"height": 12,
+			"chars": [
+				"溁",
+				"潆",
+				"滢",
+				"潵",
+				"湔",
+				"濛",
+				"涝",
+				"洪",
+				"潽",
+				"澌",
+				"洄",
+				"精",
+				"粪",
+				"糕",
+				"糒",
+				"袁",
+				"嚭",
+				"熹",
+				"墀",
+				"嘉",
+				"皇",
+				"箕",
+				"毵",
+				"恣",
+				"驭",
+				"鳁",
+				"鲥",
+				"鲫",
+				"鳀",
+				"弼",
+				"鲲"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/view_profile/price_sprite.png",
+			"ascent": -38,
+			"height": 9,
+			"chars": [
+				"渼竽",
+				"濭筑",
+				"漭毁",
+				"滞甡",
+				"潢竿",
+				"渶斤",
+				"潇筻",
+				"泔竺",
+				"满筇",
+				"淇筮",
+				"潩惩",
+				"焱后",
+				"燊卮",
+				"爃笄",
+				"燚簪",
+				"劼篥",
+				"埕簟",
+				"圯甥",
+				"埽斥",
+				"憙几",
+				"馥飓",
+				"鼹鼷",
+				"戍戌",
+				"咨鹒",
+				"鳈鳇",
+				"稣鳅",
+				"鲦骆",
+				"骝鳤",
+				"骄鲘",
+				"鲧骢",
+				"鲵骏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/view_profile/button_sprite.png",
+			"ascent": -58,
+			"height": 17,
+			"chars": [
+				"溢",
+				"港",
+				"漾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/settings_private.png",
+			"ascent": -4,
+			"height": 17,
+			"chars": [
+				"明噘",
+				"曝ꑝ",
+				"晘蹲",
+				"彩ꑝ",
+				"嗄ꑝ",
+				"ꑝ呀",
+				"号ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/settings_private.png",
+			"ascent": -22,
+			"height": 17,
+			"chars": [
+				"暧ꑝ",
+				"暖蹉",
+				"冒ꑝ",
+				"肘蹦",
+				"踝嘎",
+				"踹ꑝ",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/settings_private.png",
+			"ascent": -40,
+			"height": 17,
+			"chars": [
+				"盟ꑝ",
+				"杲ꑝ",
+				"晰ꑝ",
+				"郛ꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/settings_private.png",
+			"ascent": -58,
+			"height": 17,
+			"chars": [
+				"曌ꑝ",
+				"时ꑝ",
+				"暕ꑝ",
+				"膝ꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/settings_icons.png",
+			"ascent": -4,
+			"height": 72,
+			"chars": [
+				"乳炙堵垸躐咐唯噍呤勋绲绎绡绱缕彝",
+				"衷剂止步遗遣亦迪上氵肯赟迺迂还歧"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_off.png",
+			"ascent": -19,
+			"height": 4,
+			"chars": [
+				"眉",
+				"昄",
+				"曛",
+				"昴",
+				"剔",
+				"昕",
+				"星",
+				"旵",
+				"暾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_on.png",
+			"ascent": -19,
+			"height": 4,
+			"chars": [
+				"昳",
+				"昇",
+				"昂",
+				"晷",
+				"旷",
+				"晙",
+				"晟",
+				"曦",
+				"鹖"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_pending.png",
+			"ascent": -19,
+			"height": 4,
+			"chars": [
+				"晡",
+				"昽",
+				"既",
+				"昈",
+				"即",
+				"昪",
+				"早",
+				"郿",
+				"脚"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_request.png",
+			"ascent": -19,
+			"height": 4,
+			"chars": [
+				"碚",
+				"万",
+				"豕",
+				"励",
+				"劢",
+				"虿",
+				"鄠",
+				"趸",
+				"厄"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_off.png",
+			"ascent": -37,
+			"height": 4,
+			"chars": [
+				"昧",
+				"暑",
+				"暄",
+				"晓",
+				"晏",
+				"晞",
+				"旯",
+				"暨",
+				"昉"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_on.png",
+			"ascent": -37,
+			"height": 4,
+			"chars": [
+				"映",
+				"堲",
+				"晁",
+				"旦",
+				"晅",
+				"晒",
+				"旴",
+				"暵",
+				"曙"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_pending.png",
+			"ascent": -37,
+			"height": 4,
+			"chars": [
+				"旺",
+				"戥",
+				"晊",
+				"旱",
+				"旰",
+				"昊",
+				"昙",
+				"鱀",
+				"周"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_request.png",
+			"ascent": -37,
+			"height": 4,
+			"chars": [
+				"开",
+				"厝",
+				"亚",
+				"严",
+				"厮",
+				"形",
+				"豉",
+				"豌",
+				"刑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_off.png",
+			"ascent": -55,
+			"height": 4,
+			"chars": [
+				"晤",
+				"晨",
+				"昃",
+				"昺",
+				"量",
+				"是",
+				"晚",
+				"塈",
+				"旻"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_on.png",
+			"ascent": -55,
+			"height": 4,
+			"chars": [
+				"冕",
+				"闉",
+				"暌",
+				"旸",
+				"昣",
+				"昤",
+				"晗",
+				"曔",
+				"曼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_pending.png",
+			"ascent": -55,
+			"height": 4,
+			"chars": [
+				"旿",
+				"题",
+				"匙",
+				"晔",
+				"韪",
+				"昨",
+				"晦",
+				"鹛",
+				"臌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_request.png",
+			"ascent": -55,
+			"height": 4,
+			"chars": [
+				"剅",
+				"豇",
+				"邢",
+				"厥",
+				"兀",
+				"夏",
+				"戛",
+				"奡",
+				"虺"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_off.png",
+			"ascent": -73,
+			"height": 4,
+			"chars": [
+				"易",
+				"昒",
+				"昀",
+				"暅",
+				"昆",
+				"鹍",
+				"昫",
+				"勖",
+				"胠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_on.png",
+			"ascent": -73,
+			"height": 4,
+			"chars": [
+				"曷",
+				"暳",
+				"晴",
+				"照",
+				"煦",
+				"冔",
+				"暇",
+				"巴",
+				"晫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_pending.png",
+			"ascent": -73,
+			"height": 4,
+			"chars": [
+				"昭",
+				"最",
+				"曜",
+				"昵",
+				"晪",
+				"显",
+				"暴",
+				"岊",
+				"膨"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/z_request.png",
+			"ascent": -73,
+			"height": 4,
+			"chars": [
+				"顽",
+				"鹴",
+				"匚",
+				"牙",
+				"辱",
+				"蜃",
+				"顾",
+				"瓦",
+				"互"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:frame_color.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"섆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/voice-icon.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"鄍"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/voice-icon.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"觱"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/black_box.png",
+			"ascent": 250,
+			"height": 2000,
+			"chars": [
+				"鄜"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/red_box.png",
+			"ascent": 250,
+			"height": 2000,
+			"chars": [
+				"或"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/activewager.png",
+			"ascent": 67,
+			"height": 80,
+			"chars": [
+				"景"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/wager_1.png",
+			"ascent": 28,
+			"height": 35,
+			"chars": [
+				"腥"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/wager_5.png",
+			"ascent": 28,
+			"height": 35,
+			"chars": [
+				"幂"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/wager_25.png",
+			"ascent": 28,
+			"height": 35,
+			"chars": [
+				"胆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/wager_100.png",
+			"ascent": 28,
+			"height": 35,
+			"chars": [
+				"肥"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/wager_1000.png",
+			"ascent": 28,
+			"height": 35,
+			"chars": [
+				"冥"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/wager_comma.png",
+			"ascent": 25,
+			"height": 26,
+			"chars": [
+				"晾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/wager_numbers.png",
+			"ascent": 25,
+			"height": 26,
+			"chars": [
+				"曩暶昱暗曈暲昡晐月腽"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/staff_token_1.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"恳"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/newplayer.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"蝙嘼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/items/premium_token_chat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"濉"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/exit_screen.png",
+			"ascent": 128,
+			"height": 256,
+			"chars": [
+				"胖"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/game_bars/bar_parts.png",
+			"ascent": 10,
+			"height": 27,
+			"chars": [
+				"曾单兽"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/announce_bars/annouce_numbers.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"材彬梵村麓樊攀禁梦郴楚"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/teams_9x.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"楠植榕榨枝橞杖楮擗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/tabicon.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"瀱洇漍涸섔섕拒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/team_icons_chat.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"橑栋椅",
+				"整慭朸",
+				"枷束予",
+				"致玫玠",
+				"玡甄琀",
+				"珷琢ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -107,
+			"chars": [
+				"墡"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/spawnsign1.png",
+			"ascent": 20,
+			"height": 96,
+			"chars": [
+				"氏氐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/spawnsign1.png",
+			"ascent": 250,
+			"height": 388,
+			"chars": [
+				"温灏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/spawnsign1.png",
+			"ascent": 350,
+			"height": 578,
+			"chars": [
+				"浮漈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/spawnsign1.png",
+			"ascent": 47,
+			"height": 80,
+			"chars": [
+				"撤搒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/spawnsign1.png",
+			"ascent": 63,
+			"height": 120,
+			"chars": [
+				"섏섐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/games.png",
+			"ascent": -8,
+			"height": 29,
+			"chars": [
+				"磷砂豮攻豨劂",
+				"巫两雁鹀武石",
+				"啦咒ꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/games.png",
+			"ascent": -43,
+			"height": 29,
+			"chars": [
+				"碍碣硍硼碉砚",
+				"砠硐磜碴破砄",
+				"ꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/sts.png",
+			"ascent": 66,
+			"height": 68,
+			"chars": [
+				"歉",
+				"巷",
+				"棻",
+				"芬",
+				"凿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/lobbysigns.png",
+			"ascent": 31,
+			"height": 95,
+			"chars": [
+				"璪",
+				"璐",
+				"湄",
+				"噩",
+				"帆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/crates/crate_states.png",
+			"ascent": -96,
+			"height": 14,
+			"chars": [
+				"观",
+				"滔",
+				"浑",
+				"沮",
+				"湲",
+				"洞",
+				"峙",
+				"ぶ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/welcome_main.png",
+			"ascent": 46,
+			"height": 232,
+			"chars": [
+				"씍腊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/spring_event.png",
+			"ascent": -700,
+			"height": 140,
+			"chars": [
+				"馞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/easter_event_sel.png",
+			"ascent": 60,
+			"height": 150,
+			"chars": [
+				"筝"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/signframe.png",
+			"ascent": 70,
+			"height": 150,
+			"chars": [
+				"垕",
+				"舐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/teamspt.png",
+			"ascent": -32,
+			"height": 9,
+			"chars": [
+				"税箖渍",
+				"秣释潜",
+				"秋稍呇",
+				"秒稑浥",
+				"穑秸涓",
+				"穆秾涢",
+				"秃乘渑",
+				"釉秭潞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/teamsnoxp.png",
+			"ascent": -32,
+			"height": 9,
+			"chars": [
+				"镳",
+				"铽",
+				"镰",
+				"镀",
+				"钺",
+				"华",
+				"针",
+				"镇"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/teamsnoxp.png",
+			"ascent": -26,
+			"height": 9,
+			"chars": [
+				"榘",
+				"仞",
+				"佴",
+				"倻",
+				"倨",
+				"伊",
+				"伛",
+				"侵"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/hudheart.png",
+			"ascent": -32,
+			"height": 9,
+			"chars": [
+				"铐锭镓庑钙忉ꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/hudicons.png",
+			"ascent": -25,
+			"height": 11,
+			"chars": [
+				"稚",
+				"稔",
+				"稌",
+				"悉",
+				"秘",
+				"秕",
+				"和",
+				"积"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/clubs.png",
+			"ascent": -900,
+			"height": 240,
+			"chars": [
+				"榱皦魄"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/holograms/clubs.png",
+			"ascent": -620,
+			"height": 240,
+			"chars": [
+				"皓檩檀"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/battlebox/howtoplay.png",
+			"ascent": 50,
+			"height": 340,
+			"chars": [
+				"沁"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/battlebox/sidebargreen.png",
+			"ascent": -63,
+			"height": 96,
+			"chars": [
+				"洵",
+				"池",
+				"酷",
+				"酰"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/battlebox/sidebarblue.png",
+			"ascent": -149,
+			"height": 96,
+			"chars": [
+				"柒",
+				"泌",
+				"覆",
+				"酿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/battlebox/sidebarred.png",
+			"ascent": -235,
+			"height": 96,
+			"chars": [
+				"沕",
+				"淴",
+				"酸",
+				"醾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/battlebox/sidebaryellow.png",
+			"ascent": -321,
+			"height": 96,
+			"chars": [
+				"湉",
+				"汋",
+				"酺",
+				"酬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/battlebox/kitbb.png",
+			"ascent": -63,
+			"height": 384,
+			"chars": [
+				"掩"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/battlebox/arrow.png",
+			"ascent": -63,
+			"height": 192,
+			"chars": [
+				"湑",
+				"澛",
+				"洑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/battlebox/crossbow.png",
+			"ascent": -235,
+			"height": 192,
+			"chars": [
+				"澄",
+				"溆",
+				"滫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/battlebox/new.png",
+			"ascent": -63,
+			"height": 192,
+			"chars": [
+				"寿",
+				"泰",
+				"熬",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/battlebox/new.png",
+			"ascent": -245,
+			"height": 192,
+			"chars": [
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"秦",
+				"舂",
+				"獒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/battlebox/health.png",
+			"ascent": -53,
+			"height": 192,
+			"chars": [
+				"泾",
+				"渔",
+				"浛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/battlebox/knockback.png",
+			"ascent": -225,
+			"height": 192,
+			"chars": [
+				"涨",
+				"泠",
+				"浟"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/sapphire.png",
+			"ascent": 43,
+			"height": 250,
+			"chars": [
+				"濮",
+				"洢",
+				"沲",
+				"渝",
+				"涂",
+				"潋",
+				"瀹",
+				"汔"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/team_icons.png",
+			"ascent": 20,
+			"height": 70,
+			"chars": [
+				"渰浍沦",
+				"沧浜洽",
+				"汽海ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/selectorimages.png",
+			"ascent": 62,
+			"height": 325,
+			"chars": [
+				"重",
+				"ꑝ",
+				"ꑝ",
+				"夭"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/select.png",
+			"ascent": 72,
+			"height": 325,
+			"chars": [
+				"墰",
+				"墱",
+				"墲",
+				"墳"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/selectorimages.png",
+			"ascent": 24,
+			"height": 325,
+			"chars": [
+				"ꑝ",
+				"颀",
+				"箫",
+				"ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/select.png",
+			"ascent": 34,
+			"height": 325,
+			"chars": [
+				"简",
+				"笛",
+				"墭",
+				"墯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/selnew.png",
+			"ascent": 55,
+			"height": 327,
+			"chars": [
+				"ꑝ蹴",
+				"ꑝ蹾",
+				"ꑝ跤",
+				"ꑝ蹢"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/selnewsel.png",
+			"ascent": 65,
+			"height": 326,
+			"chars": [
+				"跶跹",
+				"趾跻",
+				"踣跐",
+				"吼唤"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/selnew.png",
+			"ascent": 92,
+			"height": 327,
+			"chars": [
+				"镈ꑝ",
+				"铖ꑝ",
+				"钱ꑝ",
+				"铺ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/selnewsel.png",
+			"ascent": 102,
+			"height": 326,
+			"chars": [
+				"饫铏",
+				"饥镢",
+				"饿镖",
+				"馊镡"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/timedblt.png",
+			"ascent": -286,
+			"height": 28,
+			"chars": [
+				"杵",
+				"稙",
+				"稹",
+				"嵇",
+				"稽",
+				"秫",
+				"稂",
+				"私",
+				"稗",
+				"秩",
+				"穄",
+				"榷",
+				"椎",
+				"榫",
+				"柃",
+				"枚",
+				"柿",
+				"樋",
+				"槁",
+				"杭",
+				"椒",
+				"榜",
+				"棹",
+				"楩",
+				"栓",
+				"柱",
+				"校",
+				"桢",
+				"朴",
+				"桧",
+				"梌",
+				"ꑝ",
+				"囀"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/timedblt.png",
+			"ascent": -228,
+			"height": 28,
+			"chars": [
+				"铊",
+				"铙",
+				"钴",
+				"铵",
+				"铕",
+				"镣",
+				"铩",
+				"钛",
+				"锛",
+				"钸",
+				"锜",
+				"偬",
+				"铗",
+				"钟",
+				"铿",
+				"钔",
+				"钏",
+				"锵",
+				"铫",
+				"钊",
+				"镄",
+				"锏",
+				"锎",
+				"镧",
+				"铀",
+				"镭",
+				"钚",
+				"钰",
+				"铘",
+				"铚",
+				"铻",
+				"贸",
+				"嚿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/trophies.png",
+			"ascent": -293,
+			"height": 56,
+			"chars": [
+				"抄括",
+				"拌插",
+				"挡契",
+				"擞挢",
+				"持掀",
+				"挂抓",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/trophies.png",
+			"ascent": -256,
+			"height": 56,
+			"chars": [
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"拮播",
+				"撷扳",
+				"拍扦",
+				"攥捶"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/tabletopsel.png",
+			"ascent": 20,
+			"height": 150,
+			"chars": [
+				"捻捡",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/tabletopselsel.png",
+			"ascent": 30,
+			"height": 150,
+			"chars": [
+				"抢",
+				"擒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/tabletopsel.png",
+			"ascent": 40,
+			"height": 150,
+			"chars": [
+				"ꑝꑝ",
+				"辇揄",
+				"ꑝꑝ",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/tabletopselsel.png",
+			"ascent": 50,
+			"height": 150,
+			"chars": [
+				"揿",
+				"拃"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/tabletopsel.png",
+			"ascent": 60,
+			"height": 150,
+			"chars": [
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"拴拾",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/tabletopselsel.png",
+			"ascent": 70,
+			"height": 150,
+			"chars": [
+				"拖",
+				"抡"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/tabletopsel.png",
+			"ascent": 80,
+			"height": 150,
+			"chars": [
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"携拎"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/selector/tabletopselsel.png",
+			"ascent": 90,
+			"height": 150,
+			"chars": [
+				"推",
+				"拊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/view_profile/view_profile_friends.png",
+			"ascent": 15,
+			"height": 15,
+			"chars": [
+				"湜"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/view_profile/view_profile_numbers.png",
+			"ascent": 15,
+			"height": 15,
+			"chars": [
+				"混渴溻湿瀑艰漫溟淝淜滑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/market/market_icons.png",
+			"ascent": -95,
+			"height": 16,
+			"chars": [
+				"淫浫滘亻币禹衅簕钹"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/market/mkt_text.png",
+			"ascent": 14,
+			"height": 16,
+			"chars": [
+				"涑",
+				"濑",
+				"漱",
+				"齉",
+				"齄",
+				"篮",
+				"瘩",
+				"痒",
+				"砣",
+				"硗",
+				"笥",
+				"敫",
+				"蚀",
+				"怄",
+				"惬",
+				"怩",
+				"世",
+				"惜",
+				"贳",
+				"螱",
+				"肆",
+				"习",
+				"忍",
+				"慰",
+				"哭",
+				"恭",
+				"媆",
+				"组",
+				"缓",
+				"结",
+				"缬",
+				"点",
+				"哀",
+				"謏",
+				"欤",
+				"此",
+				"忐",
+				"雌",
+				"鹯",
+				"颃",
+				"齿",
+				"迓",
+				"卡",
+				"赢",
+				"率",
+				"岥",
+				"岦",
+				"岧",
+				"岪",
+				"岮",
+				"岯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/cube.png",
+			"ascent": 2,
+			"height": 3,
+			"chars": [
+				"咇"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/cube.png",
+			"ascent": -1,
+			"height": 3,
+			"chars": [
+				"鸣"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/cube2.png",
+			"ascent": 5,
+			"height": 10,
+			"chars": [
+				"啪"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/cube2.png",
+			"ascent": 2,
+			"height": 10,
+			"chars": [
+				"哳"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/cube2.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": [
+				"嗪"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/cube2.png",
+			"ascent": 5,
+			"height": 10,
+			"chars": [
+				"唪"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/cube2.png",
+			"ascent": 2,
+			"height": 10,
+			"chars": [
+				"唛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/cube2.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": [
+				"嗉"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 183,
+			"chars": [
+				"翦"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 2,
+			"chars": [
+				"蔡"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -249,
+			"chars": [
+				"散"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -32,
+			"chars": [
+				"苘"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -27,
+			"chars": [
+				"莺"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -40,
+			"chars": [
+				"营"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/acdeny.png",
+			"ascent": 2,
+			"height": 9,
+			"chars": [
+				"辟",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"巨",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/acdeny.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"ꑝ",
+				"局",
+				"兕",
+				"ꑝ",
+				"ꑝ",
+				"凹",
+				"匿",
+				"ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/acdeny.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"屏",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"展"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/blocks.png",
+			"ascent": -4,
+			"height": 107,
+			"chars": [
+				"耴衣迎",
+				"缇裒育"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/gameblockexpansion.png",
+			"ascent": -76,
+			"height": 38,
+			"chars": [
+				"弃",
+				"遮"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/mobile_phone/settings_icons_large.png",
+			"ascent": -4,
+			"height": 108,
+			"chars": [
+				"郊效"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/buttons.png",
+			"ascent": -4,
+			"height": 17,
+			"chars": [
+				"耳",
+				"ꑝ",
+				"鐾",
+				"ꑝ",
+				"ꑝ",
+				"取",
+				"聂",
+				"耿",
+				"绵",
+				"ꑝ",
+				"荐",
+				"绷",
+				"绶",
+				"绸",
+				"ꑝ",
+				"ꑝ",
+				"缐",
+				"绣",
+				"绦",
+				"绛",
+				"ꑝ",
+				"迩",
+				"充",
+				"彪",
+				"迅",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/buttons.png",
+			"ascent": -22,
+			"height": 17,
+			"chars": [
+				"ꑝ",
+				"臂",
+				"ꑝ",
+				"聪",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"聃",
+				"壁",
+				"嬬",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"络",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"羸",
+				"ꑝ",
+				"ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/buttons.png",
+			"ascent": -40,
+			"height": 17,
+			"chars": [
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"檗",
+				"ꑝ",
+				"ꑝ",
+				"聊",
+				"ꑝ",
+				"耶",
+				"荐",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/buttons.png",
+			"ascent": -58,
+			"height": 17,
+			"chars": [
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"鸥",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"甓",
+				"ꑝ",
+				"ꑝ",
+				"憝",
+				"ꑝ",
+				"绨",
+				"绤",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"忞",
+				"嘇"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/buttons.png",
+			"ascent": -76,
+			"height": 17,
+			"chars": [
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"边",
+				"吝",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/lores/accent_lore.png",
+			"ascent": 17,
+			"height": 32,
+			"chars": [
+				"法溘洁澎澍泊湟澳洫洎浓潲湫浰潘涤浲洚洛烫浩洗泖滗派溜泛洙",
+				"活沃沂没沨沿鲨挲涐湃溵激溴濞娑泺泜溲潟裟戏叉浪溥浚沭沇浅"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/lores/accent_lore.png",
+			"ascent": 6,
+			"height": 32,
+			"chars": [
+				"偐偑偒偔偖偗偘偙偛偝偞偟偠偢偣偤偧偨偩偪偫偮偰偱偳側偵偸",
+				"偹偼偽傁傄傆傇傊傋傌傎傏傐傑傔傖傗傘備傚傛傜傝傞傟傠傡傢"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/lores/apos.png",
+			"ascent": 17,
+			"height": 32,
+			"chars": [
+				"漯淖澈浈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/chatrooms/chattitle.png",
+			"ascent": 19,
+			"height": 20,
+			"chars": [
+				"冱"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/effectsbar.png",
+			"ascent": 13,
+			"height": 256,
+			"chars": [
+				"盏缛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/chatrooms/joinchat.png",
+			"ascent": -60,
+			"height": 14,
+			"chars": [
+				"冽"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/chatrooms/chattop.png",
+			"ascent": 3,
+			"height": 57,
+			"chars": [
+				"冲"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/barsw.png",
+			"ascent": -32,
+			"height": 9,
+			"chars": [
+				"勚邨",
+				"愎恺",
+				"惟乌",
+				"憔甸",
+				"怜悃",
+				"忤悝",
+				"忡惯",
+				"怏愣",
+				"忱悼",
+				"悭恔",
+				"怫慥",
+				"愦訇",
+				"悱悴",
+				"悯惇",
+				"恒惊",
+				"懦枭",
+				"顷鸟",
+				"恓凫",
+				"怀岛",
+				"怦捏",
+				"恹蠢",
+				"恸担",
+				"鸵捍",
+				"怃提",
+				"悟揭",
+				"邬撮",
+				"匐把",
+				"鹱授",
+				"慄靓",
+				"愐探",
+				"怔捋",
+				"忆靛",
+				"懈拥",
+				"慊攫",
+				"慌扒",
+				"屯扮",
+				"匈掸",
+				"刨耒",
+				"惴揸",
+				"顿耙",
+				"擤攒",
+				"撬抵",
+				"絜抑",
+				"扺捭",
+				"搜搬",
+				"搋找",
+				"扩搏",
+				"贽热",
+				"焘垫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/gem_name.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"舔",
+				"劄",
+				"刮",
+				"甜",
+				"乱",
+				"笤",
+				"醐",
+				"酞",
+				"醢",
+				"阳",
+				"旬",
+				"拙",
+				"嫢",
+				"拟",
+				"拗",
+				"掾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/2dall.png",
+			"ascent": -46,
+			"height": 15,
+			"chars": [
+				"瀣淑注沆濒淯流汶ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"滧济浏涟涉沚泚瀛ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"淬液滹澽滤沾淳渟ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"濠瀼泸游漩淤泣潼ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"漳涪漓澭泫澶汴火ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"煋炟焊焜爆熳煜肖ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"泶喾燃削尝烔学鲎ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"敞鹡尚炯赏棠堂党ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"牚掌裳黉峃爝烿脊ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"誉米粑粗粉粕糗糌ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"糁浐煴觉敝常举粮ꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/6slotuis.png",
+			"ascent": 19,
+			"height": 133,
+			"chars": [
+				"盆鉊岔贫忿居",
+				"掣箸髃歇逵匦",
+				"鼢馝的骜篝君",
+				"씖암脖씓압鬟",
+				"씔씕颁邠服蓄",
+				"廨瘕蝶酾色厛",
+				"弸弹锩饲马嚍",
+				"馍铟钾捧敖薪",
+				"啖欢踯吐喻劻",
+				"はばぱひびぴ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/4slotuis.png",
+			"ascent": 19,
+			"height": 103,
+			"chars": [
+				"邝卑鄌瓁",
+				"垅囟鄇燹",
+				"城鼩晱赝",
+				"乐鄛셕弓",
+				"씅脶吵帕",
+				"暻朗痤降",
+				"隤弪扎承",
+				"蔑孀薯罢",
+				"嚈嚊嚋嚌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/discord/discord_letter.png",
+			"ascent": -63,
+			"height": 6,
+			"chars": [
+				"璺筒甪向血自纂篡算农舟鄮"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/discord/discord_text.png",
+			"ascent": -63,
+			"height": 6,
+			"chars": [
+				"箪",
+				"禾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/discord/discord_numbers.png",
+			"ascent": -84,
+			"height": 14,
+			"chars": [
+				"笆癿皑簋皎爨笕奥筋制"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/optionico.png",
+			"ascent": -42,
+			"height": 12,
+			"chars": [
+				"佝",
+				"铞",
+				"锃",
+				"锅",
+				"铝",
+				"锷"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/options.png",
+			"ascent": -4,
+			"height": 17,
+			"chars": [
+				"瞀外",
+				"又名",
+				"鳙鲐",
+				"骀煞",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/options.png",
+			"ascent": -22,
+			"height": 17,
+			"chars": [
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝ廷",
+				"钒铅",
+				"ꑝꑝ",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/options.png",
+			"ascent": -40,
+			"height": 17,
+			"chars": [
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝ延",
+				"牮锇",
+				"ꑝ嗣",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/options.png",
+			"ascent": -58,
+			"height": 17,
+			"chars": [
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝ戣",
+				"铁镍",
+				"鹃饶",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/options.png",
+			"ascent": -76,
+			"height": 17,
+			"chars": [
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝ蝥",
+				"铄锼",
+				"螯ꑝ",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/options.png",
+			"ascent": -94,
+			"height": 17,
+			"chars": [
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝ建",
+				"跑ꑝ",
+				"ꑝꑝ",
+				"勓吓"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/settings_icons.png",
+			"ascent": -4,
+			"height": 108,
+			"chars": [
+				"骛憨"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/hbanners.png",
+			"ascent": -4,
+			"height": 35,
+			"chars": [
+				"嘦",
+				"嘫",
+				"嘮"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/hbanners.png",
+			"ascent": -40,
+			"height": 35,
+			"chars": [
+				"嘩",
+				"嘯",
+				"嘰"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/housing/hbanners.png",
+			"ascent": -76,
+			"height": 35,
+			"chars": [
+				"嘪",
+				"嘳",
+				"嘵"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/ltban.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"碇",
+				"醣",
+				"觿",
+				"斛",
+				"驰",
+				"莰",
+				"鹳",
+				"艽",
+				"岩",
+				"嬥",
+				"叅",
+				"娾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/tutorial.png",
+			"ascent": 129,
+			"height": 384,
+			"chars": [
+				"狼狻",
+				"狁狨",
+				"铌钷",
+				"钝钨"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/tutnum.png",
+			"ascent": 54,
+			"height": 240,
+			"chars": [
+				"痢痿疼狄猿",
+				"狐瘤猊犷獯",
+				"铧镎仳偕铋",
+				"锪钓钩钧锴"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/adminbanner.png",
+			"ascent": 9,
+			"height": 24,
+			"chars": [
+				"颐",
+				"荽",
+				"萱",
+				"苧",
+				"芋",
+				"芣",
+				"蒜",
+				"岐",
+				"巅",
+				"奸",
+				"迭",
+				"追",
+				"叀",
+				"參",
+				"婂",
+				"婃"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/admins.png",
+			"ascent": 9,
+			"height": 24,
+			"chars": [
+				"蕨菰厜厞",
+				"芽薢岍厠",
+				"蓐菟荪厡",
+				"蔈艺芎厤",
+				"蘸蕈蔫厬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/bossbarnum.png",
+			"ascent": 7,
+			"height": 20,
+			"chars": [
+				"萦黹",
+				"斠益",
+				"共基",
+				"业期",
+				"普夔"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/adminevents/numbersbp.png",
+			"ascent": -10,
+			"height": 7,
+			"chars": [
+				"吜吤吥吪吰吳吶吷吺呂唎唓唗唘唙唚唜唞唟唡",
+				"呄呅呉呌呍呎呴呹呺呾唥唦唨唩唭唲唶唸唹唺",
+				"呏呑呚呞呟呠呡呥呩呪唻唽啂啅啈啋啌啍啎問",
+				"呮呯呰咁咃咅咈咊咑咓啑啒啗啘啙啛啝啞啠啢",
+				"呬呭咗咘咜咞咟咠咢咮啣啨啩啫啯啱啲啳啹啺",
+				"呫咰咵咶咷咹咼咾唀唂啽啿喅喌喎喐喓喕喖喗",
+				"哅哊哋哖哘哛哠員哣哤喩喪喫喬單喯喰喲喴喸",
+				"哫哯哰哴哵哷哸哹哻哾喺喼嗀嗂嗃嗆嗇嗈嗊嗋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/adminevents/numbersbp.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"嬌嬍嬎嬏嬐嬑嬒嬓嬕嬘嬙嬜嬝嬞嬟嬠嬡嬢嬣嬤",
+				"嬦嬧嬨嬪嬫嬭嬮嬯嬰嬱嬳嬵嬶嬸嬹嬺嬻嬼嬽嬾",
+				"孁孂孃孄孆孇孈孉孊孋孌孍孎孏孞孠孡孧孨孫",
+				"孭孮孯孲孴孶孷學孹孻孼孾孿宆宊宍宎宐宑宒",
+				"宔宖実宨宩宭宮宯宱宲宷宺宻宼寀寃寈寉寊寋",
+				"寍寎寏寑寔寕寖寗寘寙寚寛寠寢實寧審寫寬寭",
+				"寯寲寳寴寵寶寷対尀専尃尅將專尋尌對導尐尞",
+				"尟尠尡尣尦尩尫尭尮尯尰尲尳尵屄屆屇屌屍屒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/adminevents/colorsbp.png",
+			"ascent": -11,
+			"height": 5,
+			"chars": [
+				"唊唋",
+				"唍喚",
+				"喛喞",
+				"喠喡",
+				"喢喣",
+				"喥喦",
+				"嗎嗏",
+				"嗕嗗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/adminevents/colorsbp.png",
+			"ascent": 5,
+			"height": 5,
+			"chars": [
+				"屓屟",
+				"屔屢",
+				"屖層",
+				"屗屨",
+				"屘屩",
+				"屚屪",
+				"屛屫",
+				"屜屬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/adminevents/colornames.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"嚠",
+				"嚡",
+				"嚢",
+				"嚤",
+				"嚥",
+				"嚦",
+				"嚧",
+				"嚨",
+				"嚪",
+				"嚫",
+				"嚬",
+				"嚮",
+				"嚰",
+				"嚱",
+				"嚲",
+				"嚳"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/adminevents/actionbp.png",
+			"ascent": -6,
+			"height": 15,
+			"chars": [
+				"嗘",
+				"嗙",
+				"嗚",
+				"嗛",
+				"嗠",
+				"嗧",
+				"嗩"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/adminevents/actionbp.png",
+			"ascent": -6,
+			"height": 15,
+			"chars": [
+				"嗘",
+				"嗙",
+				"嗚",
+				"嗛",
+				"嗠",
+				"嗧",
+				"嗩"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/adminevents/numgamesleft.png",
+			"ascent": -6,
+			"height": 5,
+			"chars": [
+				"囓囕囖囘囙囜団囥囦囧"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/numbers.png",
+			"ascent": 6,
+			"height": 7,
+			"chars": [
+				"麋麟垄麇麝麂麑式贰庼",
+				"诿诰诜谢诛话诟诉讥设",
+				"讽诋谀诚议诶谘试诒谝",
+				"诫计谳谊诧诸读诂发诙",
+				"订诃诬诼谮讶谭证谵谲",
+				"磔哥砀码碓礁敔砼硷矻",
+				"砟砒砌碟砘碶碃碛碡砖",
+				"砆砸碾豆碏碘礤礞硔礴",
+				"锈钣锋铬铥锆铣钐铆镏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/numbers.png",
+			"ascent": -5,
+			"height": 7,
+			"chars": [
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"匪赜臣届卧彐刁翚帚翂",
+				"黄甘荁薷虉藿觐蕾茜某",
+				"勤苈芜兰其芸芫甚邯薤",
+				"萣菪靰莞鞔韂孽鞣靸鞬",
+				"峣岵凶岽炭崤崦崎嵽崭",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/numbers3.png",
+			"ascent": -10,
+			"height": 7,
+			"chars": [
+				"罚罱置署罟罨甽罪罘罽"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/question.png",
+			"ascent": -10,
+			"height": 7,
+			"chars": [
+				"罗禺罾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/players.png",
+			"ascent": 6,
+			"height": 7,
+			"chars": [
+				"谗认讷谁谯诊谶谂许猱",
+				"硕礵礌硒砰矸硬砺磊研",
+				"惚毕毙怅毖忳情愫句悒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/timer.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": [
+				"甙",
+				"碌",
+				"镗",
+				"钭"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/topbar.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": [
+				"砻",
+				"砷",
+				"伞",
+				"鹐",
+				"锍",
+				"愉",
+				"拇",
+				"扑",
+				"吸",
+				"郾",
+				"蒙",
+				"蕰",
+				"藩",
+				"嵝",
+				"妰",
+				"勏",
+				"勎",
+				"勌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/name.png",
+			"ascent": 6,
+			"height": 7,
+			"chars": [
+				"茼",
+				"莩",
+				"煎",
+				"菹",
+				"菠",
+				"莎",
+				"落",
+				"蒎",
+				"峄",
+				"峭",
+				"嵴",
+				"岌",
+				"岁",
+				"妗",
+				"蠡",
+				"姶"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -56,
+			"chars": [
+				"剪"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": -40,
+			"chars": [
+				"改"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 8,
+			"chars": [
+				"匣"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/dodgeball/numberslarge.png",
+			"ascent": 10,
+			"height": 20,
+			"chars": [
+				"灸坠蛋ꑝꑝ",
+				"挣扬搀ꑝꑝ",
+				"蓊蕲邺藻蕖",
+				"黇莿葙萘茬",
+				"菥茉蔌菲燕",
+				"蒻菉萨荫莛",
+				"呕叩咂别叼",
+				"厀厁厃厇厈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/dodgeball/throw.png",
+			"ascent": 10,
+			"height": 20,
+			"chars": [
+				"锓",
+				"撸",
+				"欺",
+				"菘",
+				"苯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/bars.png",
+			"ascent": -32,
+			"height": 9,
+			"chars": [
+				"谱宜窟宥",
+				"谥真窈觌",
+				"诺直窠寮",
+				"谨橐窣宏",
+				"谋蠹窨漦",
+				"谌孛未寄",
+				"详察宋嫠",
+				"讲囊守考",
+				"谦南勃釐",
+				"谎索教宄",
+				"讪疐鹁孝",
+				"讻穴支老",
+				"诎窅墼耇",
+				"谓窭頍协",
+				"谡窸翅吏",
+				"课窖灾事",
+				"讣窆宵寝",
+				"谛窳客妻",
+				"谤窊宪宙",
+				"谪窗宅审",
+				"谜戭牢士",
+				"谚突博宣",
+				"访窦栽寡",
+				"谴究宬宇",
+				"让穷宠宝",
+				"谇帘载室",
+				"谑窜截矗",
+				"谆窕惠寅",
+				"谅空哉宗",
+				"谙颠戴完",
+				"该窒裁宸",
+				"廛窍艹宁",
+				"廙穿廾宕",
+				"鹿穹朝富",
+				"廓穸戟家",
+				"店窿寁寇",
+				"廪窑乾定",
+				"十窬翰字",
+				"煮容斡宛",
+				"都窄韩麴",
+				"翥窃軎卖",
+				"宴窀輶宿",
+				"赍窎丈宾",
+				"献窘者甯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/healthhead.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"寞宰",
+				"贲大",
+				"宽乂",
+				"寨瘟",
+				"鶱橥",
+				"塞疸",
+				"骞疤",
+				"赛痕",
+				"蹇有",
+				"搴殽",
+				"謇牵",
+				"褰疽",
+				"寒瓻",
+				"七郗",
+				"兢郁",
+				"剜欷",
+				"剋瘵",
+				"翘瘿",
+				"安痈",
+				"案癯",
+				"寐瘅",
+				"寤东",
+				"郪杀",
+				"寓疲",
+				"寰夺",
+				"寂弑",
+				"实癞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/exhaustionregen.png",
+			"ascent": -32,
+			"height": 9,
+			"chars": [
+				"态",
+				"翃",
+				"癫",
+				"奢",
+				"奔",
+				"爻",
+				"肴",
+				"鸑",
+				"爽",
+				"希",
+				"痍",
+				"瘸",
+				"夯",
+				"痂",
+				"瘗",
+				"暂",
+				"布",
+				"錾",
+				"椠",
+				"在",
+				"堑",
+				"夼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/boxes.png",
+			"ascent": -46,
+			"height": 16,
+			"chars": [
+				"奓",
+				"痛",
+				"旮"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/lasertagban.png",
+			"ascent": 45,
+			"height": 288,
+			"chars": [
+				"独狉",
+				"狂犴",
+				"獗獬",
+				"狲猛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/tabletop/bossbar.png",
+			"ascent": 6,
+			"height": 7,
+			"chars": [
+				"勑勦動勗勛勜勝勞勡勢",
+				"勣呙掉嫚缭ꑝꑝꑝꑝꑝ",
+				"劺囑ꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/tabletop/bossbar.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ꑝꑝ嘂ꑝꑝꑝꑝꑝꑝ嗻",
+				"婯嗼嗿ꑝꑝ厲厴厵厼吀",
+				"ꑝꑝ婰婨ꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/gems2.png",
+			"ascent": 6,
+			"height": 7,
+			"chars": [
+				"谏译诮谠谈诗诖诵ꑝ鶠",
+				"诠谕讫论讹诈诲诱馑ꑝ",
+				"镨镤镒镁锘锳钳镬ꑝꑝ",
+				"锚岱钆镚铠钕铷镴ꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝ妼勥ꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/gems2.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"鲭鳄骤鳚鱽鲰驱鲪鳛ꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"勁ꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝ纩",
+				"综绽续缩纸绺泂泪灈部",
+				"亨妩练缆绋缋绯丝纟鸶",
+				"嫤媒姘妌媾嫌媸婩乡甾",
+				"斋斌畈略图畖畯圃毋畹",
+				"辨辩鄣辫缅缰绝纽级纾",
+				"纼绿褒毅颦氓妄巡邋亩",
+				"饔雍亥瓤玄畜邙忘乩遐",
+				"裹卤遇衰禀亶卣鹾卞遆",
+				"厧噵噷噸噹噺噽噾噿嚀",
+				"噐噒噓噕噖噚噝噞噠噡",
+				"噣噥噦噧噭噮噯噰噳噴"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/ranks.png",
+			"ascent": -20,
+			"height": 7,
+			"chars": [
+				"勶",
+				"勷",
+				"勻",
+				"勾",
+				"勿",
+				"匃",
+				"匇",
+				"匊",
+				"匍"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/ranks.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"ꑝ",
+				"匋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/2dagain.png",
+			"ascent": 10,
+			"height": 14,
+			"chars": [
+				"傭傮傯傰傱傳傴債傶傷傸傹傼傽傾傿",
+				"僀僁僂僃僄僅僆僈僉僊僋僿儀儁儂儃",
+				"僌働僑僓僕僗僘僙僜僝僞僟僠僡僢僣",
+				"僤僥僨僩僪僯僲僴僶僷僸價僺僼僽僾",
+				"億儅儈儉儊儌儍儎儏儐儑儓儔儕儗儘",
+				"儙儚儛儜儝儞償儠儢儣儤儥儧儨儩優",
+				"儫儬儭儮儯儱儲儶儷儸儹儺儻儼儽儾",
+				"兇兌兎児兒兓兗兘兙兛兝兞兡兣兤內",
+				"兩兪兯兾兿冄円冋冓冘冞冟冡冣冦冧",
+				"冩冪冭冮冴冸冺冾冿凁凂凃凅凈凊凍",
+				"凎凐凒凔凕凖凗凙凚凜凟凣凥処凧凨",
+				"凪凮凱凲凴凷凾刅刉刋刌刎刐刓刔刕",
+				"刜刡刣別刦刧刪刬刱刲刴刵刾剄則剉",
+				"剒剓剗剘剚剛剝剠剦剨剫剬剭剮剰剳",
+				"剴創剶剷剸剹剺剼劀劃劅劆劉劊劌劍",
+				"劎劏劑劒劔劖劘劙劚劜劤劥劦劮劯劰"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/7xitems.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"垗垘垜垝垥垨垪垬垰垳垵垷垹垻垼垽埀埁埄埅埈埉埊埍",
+				"埜埞埡埢埣埥埦埧埨埬埮埰埱埲埳埶執埻埿堁堄堅堈堊",
+				"埑埖埛堏堒堓堔堖堗堘堚堛堜堝堢堣堥堦堫堬堭堮堯報",
+				"堷堸堹堺堻堿塀塁塂塇塉塊塋塎塏塐塒塓塕塖塗塙塚塛",
+				"塡塢塤塦塧塨塩塪塯塲塳塴塵塶塷塸塹塺塻塼塽塿墂墄",
+				"墆墇墊墋墌墍墎墏墑墔墕墖墛墜墠墢墤墥墧墪堶塟塠場",
+				"墿壀壃壆壇壈壉壊壋壌壎壏壐壒壓壔壗壘壙壚壛壜壝壞",
+				"壟壠壡壢壣壦壧壨壩壪壭壯壱壴壺壻壼壽壾夀夁夆夈変",
+				"夋夌夎夑夒夓夗夘夛夝夞夠夡夢夣夦夨夰夲夳夽夾奀奅",
+				"奆奊奌奍奐奛奜奝奣奤奦奧奨奩奪奫奬奮奯奰奱奲奵奷",
+				"妕妚妛妜妝妠妡妢妦妬妱妳妴妵妶妷妸妺妽妿姀姁姃姄",
+				"姇姌姍姎姏姕姖姙姛姟姠姡姢姦姧姩姪姭姰姲姳姴姵姷",
+				"姸姺姾娂娊娋娎娐娒娔娕娖娗娙娚娛娝娞娡娢娤娦娧娨",
+				"懜懝懞懟懠懡懣懤懥懧懨懩懪懫懭懮懰懱懳懴懶懷懸懹",
+				"懺懻懼懽懾戀戂戃戄戉戔戙戜戝戞戠戦戧戩戫戯戰戱戲",
+				"戶戼扐扗扙扚扜扝扟扠扡扢扤扥扱扲扴扵扻抁抂抆抇抈",
+				"抋抌抍抎抏抐抙択抦抧抩抪抮抯抰抲抳抴抶抷抸抺抾拀",
+				"拋拏拑拕拝拞拠拡拪拫拰拲拵拹拺拻挀挃挄挆挋挌挍挏",
+				"挐挒挔挕挗挘挜挧挩挬挭挮挱挳挴挵挶挷挸挼挾挿捀拁",
+				"捁捄捇捈捊捑捒捓捖捗捘捙捚捜捠捤捥捪捫捬捲捳捴捵",
+				"捸捹捼捾捿掁掃掄掅掆掍掑掓掔掕掗掙掚掛掜掝掟採掤",
+				"掦掯掱掵掶掹掻掽掿揀揁揂揃揅揇揈揊揋揌揑揓揔揗揘",
+				"婾媀媁媅媇媈媊媋媌媍媎媏媐媑媕媗媘媜媝媟媠媡媢媤",
+				"媦媧媨媩媬媮媯媰媴媶媷媹媻媼媽媿嫀嫅嫆嫇嫈嫊嫋嫍",
+				"嫎嫏嫐嫑嫗嫙嫝嫞嫟嫥嫨嫬嫮嫰嫲嫳嫴嫵嫶嫷嫹嫺嫻嫼",
+				"峟峠峫峮峲峳峴峵島峸峹峺峼峽峾崉崋崍崏崑崓崗崙崜"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/gems.png",
+			"ascent": -48,
+			"height": 12,
+			"chars": [
+				"扈扇房扆戽扂戒猾诨硭但偈内隺",
+				"疯猕狰犸狳狯猃猞切碳偁倜龢伣"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/gems.png",
+			"ascent": 15,
+			"height": 16,
+			"chars": [
+				"猬猓狸狎猡猥瘦瘐狡ꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/numbers2.png",
+			"ascent": -48,
+			"height": 12,
+			"chars": [
+				"度庶席廑庠庹廉谒谩调",
+				"宓蜜耄密耋尧害古胡鹕",
+				"豁克割官额故鸪宫嘏辜",
+				"肀宦宧寥卉鸫友痧瘙瘫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 40,
+			"chars": [
+				"砍"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/numbers2.png",
+			"ascent": 15,
+			"height": 16,
+			"chars": [
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"痫奄左奭癗痞癍痓疬奈",
+				"痦夸疔奇疴病痘疠瘃痖",
+				"狗狍猰猜狷犯猎獴獾猫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/titles/numbers.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"鳑鲛驻鲂疏巯鲚鲢鲇鲸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/lt.png",
+			"ascent": 34,
+			"height": 384,
+			"chars": [
+				"痴瘾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/images/games4.png",
+			"ascent": -950,
+			"height": 177,
+			"chars": [
+				"磹"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/chatguns.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"砝磕磻硌砭硃硚斫",
+				"矶矾砜碈硪砾砥碑",
+				"硇矿礳碱碜碥硿碹"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/num.png",
+			"ascent": -26,
+			"height": 8,
+			"chars": [
+				"蝘褊蜡蟆褯蝾蠓螠蝤蟒ꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/num.png",
+			"ascent": -27,
+			"height": 8,
+			"chars": [
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"蓑苄蘧山嵋岜崩岘岗岨ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/num.png",
+			"ascent": -44,
+			"height": 8,
+			"chars": [
+				"蟥蟏蚶螨蜞蠖蛘蜣蟮蛐ꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/num.png",
+			"ascent": -45,
+			"height": 8,
+			"chars": [
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"蔟菸莘薏菩蒟蓠芒蕹荄ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/num.png",
+			"ascent": -62,
+			"height": 8,
+			"chars": [
+				"螬蠛虬袯蚴蜾蠋蝈蛔螺ꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/num.png",
+			"ascent": -63,
+			"height": 8,
+			"chars": [
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"芾芷茈萃苫蒿藁蔀葶蘘叨"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/num.png",
+			"ascent": -80,
+			"height": 8,
+			"chars": [
+				"螃蛟蛀蚄蟀蚪蚊蛴蝣蟑ꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/num.png",
+			"ascent": -81,
+			"height": 8,
+			"chars": [
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"菽薳蘋蓬芳茺芠荙荠莲ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/num.png",
+			"ascent": -98,
+			"height": 8,
+			"chars": [
+				"螭虻褚史盎襫鸯串肃牖ꑝ",
+				"捷揎拧砉艳邦摈挠彗慧ꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/num.png",
+			"ascent": -99,
+			"height": 8,
+			"chars": [
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"ꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝꑝ",
+				"甍薨瞢葸鹋茴藟兼蒂蒡ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/x.png",
+			"ascent": -25,
+			"height": 11,
+			"chars": [
+				"萝茭",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"嵲ꑝ",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/x.png",
+			"ascent": -43,
+			"height": 11,
+			"chars": [
+				"峒酅",
+				"绹ꑝ",
+				"ꑝꑝ",
+				"ꑝ嵬",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/x.png",
+			"ascent": -61,
+			"height": 11,
+			"chars": [
+				"崟峪",
+				"ꑝꑝ",
+				"峤ꑝ",
+				"ꑝꑝ",
+				"巍ꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/x.png",
+			"ascent": -79,
+			"height": 11,
+			"chars": [
+				"嶒嵖",
+				"ꑝ岚",
+				"ꑝꑝ",
+				"ꑝꑝ",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/x.png",
+			"ascent": -97,
+			"height": 11,
+			"chars": [
+				"崧崊",
+				"ꑝꑝ",
+				"ꑝ峨",
+				"ꑝꑝ",
+				"ꑝꑝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/-.png",
+			"ascent": -29,
+			"height": 2,
+			"chars": [
+				"柔"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/-.png",
+			"ascent": -47,
+			"height": 2,
+			"chars": [
+				"及"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/-.png",
+			"ascent": -65,
+			"height": 2,
+			"chars": [
+				"虱"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/-.png",
+			"ascent": -83,
+			"height": 2,
+			"chars": [
+				"蟊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/-.png",
+			"ascent": -101,
+			"height": 2,
+			"chars": [
+				"骘"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/k.png",
+			"ascent": -26,
+			"height": 8,
+			"chars": [
+				"丑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/k.png",
+			"ascent": -44,
+			"height": 8,
+			"chars": [
+				"厾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/k.png",
+			"ascent": -62,
+			"height": 8,
+			"chars": [
+				"颋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/k.png",
+			"ascent": -80,
+			"height": 8,
+			"chars": [
+				"疆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/k.png",
+			"ascent": -98,
+			"height": 8,
+			"chars": [
+				"矞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/7xmil.png",
+			"ascent": -26,
+			"height": 8,
+			"chars": [
+				"矜"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/7x100k.png",
+			"ascent": -44,
+			"height": 8,
+			"chars": [
+				"乃"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/7x10k.png",
+			"ascent": -62,
+			"height": 8,
+			"chars": [
+				"弧"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/7x1k.png",
+			"ascent": -80,
+			"height": 8,
+			"chars": [
+				"夕"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/icons/7x100.png",
+			"ascent": -98,
+			"height": 8,
+			"chars": [
+				"弘"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/scroll_qualifiers.png",
+			"ascent": -30,
+			"height": 73,
+			"chars": [
+				"师片"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/leaders/headers.png",
+			"ascent": 13,
+			"height": 34,
+			"chars": [
+				"碲",
+				"磅",
+				"磙",
+				"礅",
+				"镌",
+				"掮",
+				"捩",
+				"拚",
+				"摭",
+				"拨"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/games/lasertag/arrow.png",
+			"ascent": 6,
+			"height": 7,
+			"chars": [
+				"袖襦贵壮虫状将北邶非剕兆妆褥刂费襜桨浆版牌牍奖酱艴牒襁衲鼗袗袱衿裣褕袷褓",
+				"忠背袍冀聿裱袆裎冂间阊阘阌阒阅阐闲闭阑阔闺阖初阁阍阋阆阈阗阇裾闳阉裙闽闩",
+				"闰闬韭闫阎阚阕闯阄闪阀闷闱问闾闻阙闿阃闸闶闵闼闹訚阏阂褡儿鸩胤由胄裸申頔",
+				"曳电补褪棐辈裢蜚悲翡襚裴斐一百戬厩亘皕碧厚霾霜霖耐霪霈霄雾耏霓丽霭而融霏",
+				"颥雳雩震霆邴郦页贡霍零厕霉恧雹鹂鹝鸸露霞霨雪翮霹霰霸鬷耍雷雱雯霁霅霎晋垩",
+				"西酉于盂厢五邘汞不灭甭飘瓢平剽丕歪鄢愿否孬王瑁瑆瑂瑅瓓琨琶珢璟再玥瑷珊琛",
+				"珲珇瑗琈瑶璎玐珶玢琳玻玦瑓琐璘琰珖珰珃珪珐珀瑔瑝珦珘琇璠珞珋珠瑖瑀玑珩璬",
+				"瓒璁玉压琅珬珹球珑班瑭瑱瑏瑢琮瑄琔琬瑚琯珛琦珈珕玔珧琲到珒珅玒瓀瑈珽郅瓍"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/test/staff2.png",
+			"ascent": 130,
+			"height": 384,
+			"chars": [
+				"鞡苦",
+				"蚩岸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/test/staff.png",
+			"ascent": 130,
+			"height": 384,
+			"chars": [
+				"葫菅"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/test/behind.png",
+			"ascent": 178,
+			"height": 384,
+			"chars": [
+				"セ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/test/behinds.png",
+			"ascent": 225,
+			"height": 480,
+			"chars": [
+				"ゾヅ",
+				"タト"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/test/spawntop.png",
+			"ascent": 130,
+			"height": 192,
+			"chars": [
+				"ネナ",
+				"ッヌ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/countdown.png",
+			"ascent": 10,
+			"height": 32,
+			"chars": [
+				"鸷",
+				"幔",
+				"挚",
+				"抬",
+				"撼",
+				"护"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/numbers.png",
+			"ascent": -10,
+			"height": 5,
+			"chars": [
+				"疗疚痉鸠疡馗訄虓疹疾"
+			]
+		}
+	]
+}
