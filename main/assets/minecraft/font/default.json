@@ -154,6 +154,25 @@
 				"㑼"
 			]
 		
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:realm_logo.png",
+			"ascent": 32,
+			"height": 80,
+			"chars": [
+				"셚셙",
+				"션셗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine:space_split.png",
+			"ascent": -32768,
+			"height": 0,
+			"chars": [
+				"ꌄ"
+			]
 		}
 	]
 }
