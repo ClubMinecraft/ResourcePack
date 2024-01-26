@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/clubmine/handheld/panda",
-		"particle": "item/clubmine/handheld/panda"
+		"0": "Textures/panda",
+		"particle": "Textures/panda"
 	},
 	"elements": [
 		{
@@ -168,6 +168,11 @@
 		"head": {
 			"translation": [0, 15.5, -0.5],
 			"scale": [1.2, 1.2, 1.2]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 2.75, -16],
+			"scale": [2, 2, 2]
 		}
 	}
 }
