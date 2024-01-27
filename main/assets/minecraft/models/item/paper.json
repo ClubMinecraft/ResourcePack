@@ -130,5 +130,12 @@
       },
       "model": "clubmine/hats/foxears"
     }
+    ,
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "clubmine/hats/betahatbasic"
+    }
   ]
 }
