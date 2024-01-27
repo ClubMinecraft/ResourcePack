@@ -19,26 +19,11 @@ jobs:
             # Optimize the pack in the root repository directory.
             # This is the default value for pack_directory when no PackSquash options are defined
             pack_directory = 'main'
-
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
             output_file_path = '/tmp/pack.zip'
-      - name: Set version
-        id: set_version
-        run: |
-          if [ $((GITHUB_RUN_NUMBER % 100)) -eq 0 ]; then
-            # Reset the minor and patch versions
-            MINOR=$((GITHUB_RUN_NUMBER / 100 % 10))
-            PATCH=$((GITHUB_RUN_NUMBER / 1000 % 10))
-          else
-            MINOR=$((GITHUB_RUN_NUMBER / 10 % 10))
-            PATCH=$((GITHUB_RUN_NUMBER % 10))
-          fi
-          echo "0.$MINOR.$PATCH" >> $GITHUB_ENV
-          echo "::set-output name=version::0.$MINOR.$PATCH"
-
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: v${{ steps.set_version.outputs.version }}
+          tag_name: v${{ github.run_number }}
           files: /tmp/pack.zip
