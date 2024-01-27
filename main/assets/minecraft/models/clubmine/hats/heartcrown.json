@@ -1,17 +1,17 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/clubmine/hats/Heart Crown/hc1",
-		"2": "item/clubmine/hats/Heart Crown/hc2",
-		"4": "item/clubmine/hats/Heart Crown/hc3",
-		"5": "item/clubmine/hats/Heart Crown/hc4",
-		"6": "item/clubmine/hats/Heart Crown/hc5",
-		"7": "item/clubmine/hats/Heart Crown/hc6",
-		"8": "item/clubmine/hats/Heart Crown/hc7",
-		"9": "item/clubmine/hats/Heart Crown/hc8",
-		"10": "item/clubmine/hats/Heart Crown/hc9",
-		"11": "item/clubmine/hats/Heart Crown/hc10",
-		"particle": "item/clubmine/hats/Heart Crown/hc6"
+		"1": "item/clubmine/hats/heartcrown/hc1",
+		"2": "item/clubmine/hats/heartcrown/hc2",
+		"4": "item/clubmine/hats/heartcrown/hc3",
+		"5": "item/clubmine/hats/heartcrown/hc4",
+		"6": "item/clubmine/hats/heartcrown/hc5",
+		"7": "item/clubmine/hats/heartcrown/hc6",
+		"8": "item/clubmine/hats/heartcrown/hc7",
+		"9": "item/clubmine/hats/heartcrown/hc8",
+		"10": "item/clubmine/hats/heartcrown/hc9",
+		"11": "item/clubmine/hats/heartcrown/hc10",
+		"particle": "item/clubmine/hats/heartcrown/hc6"
 	},
 	"elements": [
 		{
