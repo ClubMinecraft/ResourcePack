@@ -92,13 +92,13 @@
       "predicate": {
         "custom_model_data": 15
       },
-      "model": "clubmine/x/y"
+      "model": "clubmine/handheld/spiralsceptre"
     },
     {
       "predicate": {
         "custom_model_data": 16
       },
-      "model": "clubmine/x/y"
+      "model": "clubmine/handheld/heartsceptre"
     },
     {
       "predicate": {
