@@ -34,8 +34,8 @@ jobs:
             MINOR=$((github.run_number / 10 % 10))
             PATCH=$((github.run_number % 10))
           fi
-          echo "0.$MINOR.$PATCH" >> version.txt
-          echo "::set-output name=version::$(cat version.txt)"
+          echo "0.$MINOR.$PATCH" >> $GITHUB_ENV
+          echo "::set-output name=version::0.$MINOR.$PATCH"
 
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
