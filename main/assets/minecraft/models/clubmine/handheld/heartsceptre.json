@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/heartsceptre",
-		"particle": "block/heartsceptre"
+		"0": "item/clubmine/handheld/heartsceptre",
+		"particle": "item/clubmine/handheld/heartsceptre"
 	},
 	"elements": [
 		{
