@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "foxears",
-		"particle": "foxears"
+		"0": "item/clubmine/hats/foxears",
+		"particle": "item/clubmine/hats/foxears"
 	},
 	"elements": [
 		{
