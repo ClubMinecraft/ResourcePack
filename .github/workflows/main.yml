@@ -16,14 +16,32 @@ jobs:
         with:
           packsquash_version: latest
           options: |
-            # Optimize the pack in the root repository directory.
-            # This is the default value for pack_directory when no PackSquash options are defined
             pack_directory = 'main'
-            # Set a custom output file path to work with the generated ZIP file
-            # without needing to download its artifact in a separate step
             output_file_path = '/tmp/pack.zip'
+      - name: Set Version
+        id: set_version
+        run: |
+          current_version=$(git describe --tags --abbrev=0)
+          echo "Current version: ${current_version}"
+          version_parts=(${current_version//./ })
+          major=${version_parts[0]}
+          minor=${version_parts[1]}
+          patch=${version_parts[2]}
+
+          if [ -z "$patch" ]; then
+            patch=0
+          else
+            patch=$((patch + 1))
+          fi
+
+          new_version="${major}.${minor}.${patch}"
+          echo "Setting new version: ${new_version}"
+
+          echo "::set-output name=new_version::${new_version}"
+        shell: bash
+          
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: v${{ github.run_number }}
+          tag_name: ${{ steps.set_version.outputs.new_version }}
           files: /tmp/pack.zip
