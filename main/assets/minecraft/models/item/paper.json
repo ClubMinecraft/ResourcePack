@@ -126,7 +126,7 @@
     },
     {
       "predicate": {
-        "custom_model_data": 20
+        "custom_model_data": 21
       },
       "model": "clubmine/hats/foxears"
     }
