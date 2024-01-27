@@ -227,6 +227,15 @@
 			"chars": [
 				"ꈂ"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "clubmine/ui/death.png",
+			"ascent": 41,
+			"height": 60,
+			"chars": [
+				"妈"
+			]
 		}
 	]
 }
