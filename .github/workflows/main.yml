@@ -23,8 +23,21 @@ jobs:
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
             output_file_path = '/tmp/pack.zip'
+      - name: Set version
+        id: set_version
+        run: |
+          if [ $((github.run_number % 100)) -eq 0 ]; then
+            # Reset the minor and patch versions
+            MINOR=$((github.run_number / 100 % 10))
+            PATCH=$((github.run_number / 1000 % 10))
+          else
+            MINOR=$((github.run_number / 10 % 10))
+            PATCH=$((github.run_number % 10))
+          fi
+          echo "::set-output name=version::0.$MINOR.$PATCH"
+
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: v${{ github.run_number }}
+          tag_name: v${{ steps.set_version.outputs.version }}
           files: /tmp/pack.zip
