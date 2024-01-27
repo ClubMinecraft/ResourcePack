@@ -26,13 +26,13 @@ jobs:
       - name: Set version
         id: set_version
         run: |
-          if [ $((github.run_number % 100)) -eq 0 ]; then
+          if [ $((GITHUB_RUN_NUMBER % 100)) -eq 0 ]; then
             # Reset the minor and patch versions
-            MINOR=$((github.run_number / 100 % 10))
-            PATCH=$((github.run_number / 1000 % 10))
+            MINOR=$((GITHUB_RUN_NUMBER / 100 % 10))
+            PATCH=$((GITHUB_RUN_NUMBER / 1000 % 10))
           else
-            MINOR=$((github.run_number / 10 % 10))
-            PATCH=$((github.run_number % 10))
+            MINOR=$((GITHUB_RUN_NUMBER / 10 % 10))
+            PATCH=$((GITHUB_RUN_NUMBER % 10))
           fi
           echo "0.$MINOR.$PATCH" >> $GITHUB_ENV
           echo "::set-output name=version::0.$MINOR.$PATCH"
