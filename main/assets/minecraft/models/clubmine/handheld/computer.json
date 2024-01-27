@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "Clubmine/Textures/cpscreen",
-		"1": "Clubmine/Textures/cpkeyboard",
-		"particle": "Clubmine/Textures/cpscreen"
+		"0": "item/clubmine/handheld/cpscreen",
+		"1": "item/clubmine/handheld/cpkeyboard",
+		"particle": "item/clubmine/handheld/cpscreen"
 	},
 	"elements": [
 		{
