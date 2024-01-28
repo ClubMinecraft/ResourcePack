@@ -18,23 +18,31 @@ jobs:
           options: |
             pack_directory = 'main'
             output_file_path = '/tmp/pack.zip'
+      - name: Fetch tags
+        run: git fetch --tags
       - name: Set Version
         id: set_version
         run: |
-          current_version=$(git describe --tags --abbrev=0)
-          echo "Current version: ${current_version}"
-          version_parts=(${current_version//./ })
-          major=${version_parts[0]}
-          minor=${version_parts[1]}
-          patch=${version_parts[2]}
+          latest_version=$(git tag -l --sort=v:refname | tail -n1)
+          echo "Latest version: ${latest_version}"
 
-          if [ -z "$patch" ]; then
-            patch=0
+          if [[ $latest_version =~ ^v([0-9]+)\.([0-9]+)$ ]]; then
+            major="${BASH_REMATCH[1]}"
+            minor="${BASH_REMATCH[2]}"
           else
-            patch=$((patch + 1))
+            echo "Invalid version format for the latest tag: $latest_version"
+            exit 1
           fi
 
-          new_version="${major}.${minor}.${patch}"
+          # Increment minor version
+          if [ "$minor" -lt 9 ]; then
+            minor=$((minor + 1))
+          else
+            major=$((major + 1))
+            minor=0
+          fi
+
+          new_version="v${major}.${minor}"
           echo "Setting new version: ${new_version}"
 
           echo "::set-output name=new_version::${new_version}"
