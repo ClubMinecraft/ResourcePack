@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"0": "animated_java:item/banker/bankernpc"
+	},
+	"elements": [
+		{
+			"from": [
+				4,
+				8,
+				6
+			],
+			"to": [
+				12,
+				20,
+				10
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						2,
+						3
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						7,
+						0,
+						8,
+						3
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						2,
+						0,
+						4,
+						3
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						1,
+						7,
+						2,
+						10
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						11,
+						4,
+						9,
+						3
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						6,
+						9,
+						4,
+						10
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				0,
+				0
+			]
+		}
+	}
+}
