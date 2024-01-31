@@ -129,13 +129,24 @@
         "custom_model_data": 21
       },
       "model": "clubmine/hats/foxears"
-    }
-    ,
+    },
     {
       "predicate": {
         "custom_model_data": 22
       },
       "model": "clubmine/hats/betahatbasic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "clubmine/hats/flowerarmrap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "clubmine/hats/mushroombuddy"
     }
   ]
 }
