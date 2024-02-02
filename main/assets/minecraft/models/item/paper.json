@@ -140,13 +140,13 @@
       "predicate": {
         "custom_model_data": 23
       },
-      "model": "clubmine/hats/flowerarmrap"
+      "model": "clubmine/handheld/flowerarmrap"
     },
     {
       "predicate": {
         "custom_model_data": 24
       },
-      "model": "clubmine/hats/mushroombuddy"
+      "model": "clubmine/handheld/mushroombuddy"
     }
   ]
 }
