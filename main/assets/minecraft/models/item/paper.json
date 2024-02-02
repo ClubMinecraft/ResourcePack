@@ -147,6 +147,12 @@
         "custom_model_data": 24
       },
       "model": "clubmine/handheld/mushroombuddy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "clubmine/handheld/ramenbowl"
     }
   ]
 }
