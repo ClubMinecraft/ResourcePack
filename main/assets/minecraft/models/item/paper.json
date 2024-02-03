@@ -159,6 +159,12 @@
         "custom_model_data": 26
       },
       "model": "clubmine/hats/butterflieshat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "clubmine/handheld/bigleaf"
     }
   ]
 }
