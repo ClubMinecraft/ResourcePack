@@ -153,6 +153,12 @@
         "custom_model_data": 25
       },
       "model": "clubmine/handheld/ramenbowl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "clubmine/hats/butterflieshat"
     }
   ]
 }
