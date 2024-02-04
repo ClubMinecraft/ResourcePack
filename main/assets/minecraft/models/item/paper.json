@@ -165,6 +165,12 @@
         "custom_model_data": 27
       },
       "model": "clubmine/handheld/bigleaf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "clubmine/handheld/thunderbolt"
     }
   ]
 }
