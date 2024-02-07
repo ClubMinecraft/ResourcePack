@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/clubmine/hats/dogears",
+		"0": "block/texture",
+		"particle": "block/texture"
 	},
 	"elements": [
 		{
@@ -259,6 +260,17 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4.25, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"translation": [0, 5.25, 0]
+		},
+		"gui": {
+			"rotation": [-180, -2.23, -179.25],
+			"translation": [0.5, 5, 0]
+		},
 		"head": {
 			"translation": [0, 13, 0],
 			"scale": [1.4, 1.4, 1.4]
