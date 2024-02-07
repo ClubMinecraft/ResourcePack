@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench || Created by: @beauver on discord",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "dimsdale-dimadone",
-		"particle": "dimsdale-dimadone"
+		"0": "item/clubmine/hatsdimsdale-dimadone",
 	},
 	"elements": [
 		{
