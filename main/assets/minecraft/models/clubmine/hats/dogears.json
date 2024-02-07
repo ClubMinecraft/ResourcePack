@@ -2,7 +2,6 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/clubmine/hats/dogears",
-		"particle": "item/clubmine/hats/dogears"
 	},
 	"elements": [
 		{
