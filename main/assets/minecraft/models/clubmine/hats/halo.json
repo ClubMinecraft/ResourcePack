@@ -3,7 +3,6 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/clubmine/hats/halo",
-		"particle": "item/clubmine/hats/halo"
 	},
 	"elements": [
 		{
