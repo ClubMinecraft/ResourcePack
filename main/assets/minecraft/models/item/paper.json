@@ -171,6 +171,18 @@
         "custom_model_data": 28
       },
       "model": "clubmine/handheld/thunderbolt"
+    },
+     {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "clubmine/hats/dogears"
+    },
+     {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "clubmine/hats/Halo"
     }
   ]
 }
