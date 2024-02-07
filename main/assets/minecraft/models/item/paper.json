@@ -184,10 +184,11 @@
       },
       "model": "clubmine/hats/halo"
     },
-     {
+{
       "predicate": {
         "custom_model_data": 31
       },
       "model": "clubmine/hats/dimsdale-dimadone"
+    {
   ]
 }
