@@ -189,6 +189,12 @@
         "custom_model_data": 31
       },
       "model": "clubmine/hats/dimsdale-dimadone"
-    }
+    },
+    {
+          "predicate": {
+            "custom_model_data": 32
+          },
+          "model": "clubmine/handheld/briefcase"
+        }
   ]
 }
