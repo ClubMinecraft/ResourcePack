@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "animated_java:item/banker/bankernpc"
+		"0": "animated_java:item/banker/bankernpc",
+		"3": "animated_java:item/banker/bankerextras"
 	},
 	"elements": [
 		{
@@ -77,6 +78,74 @@
 						8
 					],
 					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [
+				7.5,
+				-2,
+				5.5
+			],
+			"to": [
+				12.5,
+				0,
+				10.5
+			],
+			"faces": {
+				"north": {
+					"uv": [
+						1,
+						5,
+						3.5,
+						6
+					],
+					"texture": "#3"
+				},
+				"east": {
+					"uv": [
+						5,
+						2.5,
+						7.5,
+						3.5
+					],
+					"texture": "#3"
+				},
+				"south": {
+					"uv": [
+						3.5,
+						5,
+						6,
+						6
+					],
+					"texture": "#3"
+				},
+				"west": {
+					"uv": [
+						5,
+						3.5,
+						7.5,
+						4.5
+					],
+					"texture": "#3"
+				},
+				"up": {
+					"uv": [
+						2.5,
+						2.5,
+						0,
+						0
+					],
+					"texture": "#3"
+				},
+				"down": {
+					"uv": [
+						2.5,
+						2.5,
+						0,
+						5
+					],
+					"texture": "#3"
 				}
 			}
 		}
