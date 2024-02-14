@@ -213,6 +213,18 @@
 				"custom_model_data": 35
 			},
 			"model": "clubmine/handheld/kitty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "clubmine/hats/music_note_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "clubmine/hats/pancake_hat"
 		}
 	]
 }
