@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/clubmine/handheld/coffeecup",
-		"particle": "item/clubmine/handheld/coffeecup"
+		"0": "coffeecup",
+		"particle": "coffeecup"
 	},
 	"elements": [
 		{
@@ -122,6 +122,19 @@
 		"thirdperson_lefthand": {
 			"rotation": [90.88, -80.46, 23.52],
 			"translation": [-1.75, 4.25, 5.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 64, 0],
+			"translation": [5.75, 10.5, -2.75],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-175.9, -58.46, 179.74],
+			"translation": [0.25, 11, -4.5],
+			"scale": [2, 2, 2]
+		},
+		"ground": {
+			"translation": [0, 3.5, 0]
 		},
 		"gui": {
 			"rotation": [15.25, 19, 0],
