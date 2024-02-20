@@ -225,6 +225,12 @@
 				"custom_model_data": 37
 			},
 			"model": "clubmine/hats/pancake_hat"
+			},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "clubmine/handheld/bigleafextrabig"
 		}
 	]
 }
