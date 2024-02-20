@@ -231,6 +231,13 @@
 				"custom_model_data": 38
 			},
 			"model": "clubmine/handheld/bigleafextrabig"
+					},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "clubmine/handheld/coffeecup"
+
 		}
 	]
 }
