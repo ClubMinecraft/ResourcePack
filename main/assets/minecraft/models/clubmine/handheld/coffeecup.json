@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/coffeecup",
-		"particle": "block/coffeecup"
+		"0": "item/clubmine/handheld/coffeecup",
+		"particle": "item/clubmine/handheld/coffeecup"
 	},
 	"elements": [
 		{
