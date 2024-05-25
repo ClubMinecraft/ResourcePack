@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/clubmine/hat/colonthree",
-		"particle": "item/clubmine/hat/colonthree"
+		"0": "item/clubmine/hats/colonthree",
+		"particle": "item/clubmine/hats/colonthree"
 	},
 	"elements": [
 		{

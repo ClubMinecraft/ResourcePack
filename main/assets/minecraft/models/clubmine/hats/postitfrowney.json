@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/clubmine/hat/frowney",
-		"particle": "item/clubmine/hat/frowney"
+		"0": "item/clubmine/hats/frowney",
+		"particle": "item/clubmine/hats/frowney"
 	},
 	"elements": [
 		{
