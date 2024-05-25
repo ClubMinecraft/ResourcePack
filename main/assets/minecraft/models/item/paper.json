@@ -231,12 +231,61 @@
 				"custom_model_data": 38
 			},
 			"model": "clubmine/handheld/bigleafextrabig"
-					},
+		},
 		{
 			"predicate": {
 				"custom_model_data": 39
 			},
 			"model": "clubmine/handheld/coffeecup"
+
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "clubmine/hat/postitcolonthree"
+
+		},
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "clubmine/hat/postitfrowney"
+
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "clubmine/hat/postitsmiley"
+
+		},
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "clubmine/hat/postitx"
+
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "clubmine/hat/postitcolond"
+
+		},
+		{
+			"predicate": {
+				"custom_model_data": 45
+			},
+			"model": "clubmine/handheld/starstaff"
+
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "clubmine/hat/cloudhat"
 
 		}
 	]
