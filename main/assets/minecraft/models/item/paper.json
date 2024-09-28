@@ -323,6 +323,12 @@
 				"custom_model_data": 52
 			},
 			"model": "clubmine/furniture/betaballoon"
-		}
+		},
+		{
+			"predicate": {
+				"custom_model_data": 53
+			},
+			"model": "clubmine/hat/blueorchidcrown"
+		{
 	]
 }
