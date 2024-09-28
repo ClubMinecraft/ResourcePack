@@ -287,6 +287,36 @@
 			},
 			"model": "clubmine/hats/cloudhat"
 
+		},
+		{
+			"predicate": {
+				"custom_model_data": 47
+			},
+			"model": "clubmine/hats/betahat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 48
+			},
+			"model": "clubmine/hats/betahatorange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 49
+			},
+			"model": "clubmine/furniture/decorativelightsredblue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 50
+			},
+			"model": "clubmine/furniture/decorativelightsyellowgreen"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 51
+			},
+			"model": "clubmine/handheld/fishingnet"
 		}
 	]
 }
