@@ -329,6 +329,36 @@
 				"custom_model_data": 53
 			},
 			"model": "clubmine/hats/blueorchidcrown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 54
+			},
+			"model": "clubmine/crates/common"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 55
+			},
+			"model": "clubmine/crates/uncommon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 56
+			},
+			"model": "clubmine/crates/rare"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 57
+			},
+			"model": "clubmine/crates/epic"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 58
+			},
+			"model": "clubmine/crates/legendary"
 		}
 	]
 }
