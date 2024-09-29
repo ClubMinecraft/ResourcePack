@@ -359,6 +359,12 @@
 				"custom_model_data": 58
 			},
 			"model": "clubmine/crates/legendary"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 59
+			},
+			"model": "clubmine/furniture/theatretext"
 		}
 	]
 }
