@@ -371,6 +371,12 @@
 				"custom_model_data": 60
 			},
 			"model": "clubmine/handheld/starbuddy"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 61
+			},
+			"model": "clubmine/handheld/heartplush"
 		}
 		
 	]
