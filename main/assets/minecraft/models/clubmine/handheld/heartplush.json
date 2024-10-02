@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/heartplush",
-		"particle": "block/heartplush"
+		"0": "item/clubmine/handheld/heartplush",
+		"particle": "item/clubmine/handheld/heartplush"
 	},
 	"elements": [
 		{
