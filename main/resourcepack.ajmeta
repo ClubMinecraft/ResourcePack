@@ -1,0 +1,13 @@
+{
+    "version": "0.4.8",
+    "projects": {
+        "4ea34f90-26c7-6d01-6d4d-86e471a2e0ec": {
+            "project_name": "betaballoon",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\betaballoon\\main.json",
+                "assets\\animated_java\\textures\\item\\betaballoon\\betaballoon.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        }
+    }
+}

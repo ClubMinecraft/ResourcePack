@@ -14,56 +14,14 @@
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "animated_java:item/banker/rleg"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 3
-			},
-			"model": "animated_java:item/banker/body"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 4
-			},
-			"model": "animated_java:item/banker/rarm"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 5
-			},
-			"model": "animated_java:item/banker/larm"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 6
-			},
-			"model": "animated_java:item/banker/head"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 7
-			},
-			"model": "animated_java:item/banker/lleg"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 8
-			},
-			"model": "animated_java:item/banker/bone"
+			"model": "animated_java:item/betaballoon/main"
 		}
 	],
 	"animated_java": {
 		"rigs": {
-			"banker": {
+			"betaballoon": {
 				"used_ids": [
-					2,
-					3,
-					4,
-					5,
-					6,
-					7,
-					8
+					2
 				]
 			}
 		}
